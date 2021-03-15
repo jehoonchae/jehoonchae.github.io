@@ -36,3 +36,5 @@ How do we remember real-world events? Are event boundaries of memory for real-wo
 [**Image As Data: How Instagram photos reveal individual’s characteristics and personality**](/projects/project01_image-as-data)
 
 With [Seokyoung Min](https://sites.google.com/view/seokyoungmin/home?authuser=0), Jonghyun Lee, & [Sang Yup Lee](https://sangyup-lee.github.io/aboutme/)
+
+Does photos uploaded on social media posts reveal one's personality? If so, how can we quantitatively (or computationally) measure and reveal the relationship empirically? Leveraging digital trace data (uploaded photos on Instagram) and surveys on Big-Five personality, our approach combining computational methods (computer vision API and topic modeling) and survey show that people with similar personalities upload similar photos.
