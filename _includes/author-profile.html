@@ -16,10 +16,17 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.twitter %}
-      <p><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="ture"></i> <span>Twitter</span></a></p>
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p><br>{% endif %}
+    {% if author.email %}
+      <p class="author__link"><a href="mailto:{{ author.email }}"><i class="far fa-envelope"></i> Email</a><br></p>
     {% endif %}
+    {% if author.twitter %}
+      <p class="author__link"><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter"></i> Twitter</a><br></p>
+    {% endif %}
+    {% if author.github %}
+      <p class="author__link"><a href="https://github.com/{{ author.github }}"><i class="fab fa-github"></i> GitHub</a></p>
+    {% endif %}
+
   </div>
 
   <div class="author__urls-wrapper">
