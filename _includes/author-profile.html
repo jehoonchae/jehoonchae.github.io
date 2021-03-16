@@ -17,6 +17,9 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.twitter %}
+      <p><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="ture"></i> <span>Twitter</span></a></p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">

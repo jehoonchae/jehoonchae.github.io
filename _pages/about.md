@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-# *This site is under construction*
-
 I study political communication and computational social science. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically survey experiment, computational methods (e.g., text, image, audio data analysis). My master's degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of 21th Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302). If you want more information about me, read my [CV](https://www.dropbox.com/s/j1f98c6tkuftw77/cv-jhchae.pdf?dl=0).
 
 &nbsp;
-
 
 Education
 ======
 - M.S. Media Communication, Yonsei University (2020)
 - B.A. Communication, Yonsei University (2017)
+
+&nbsp;
+
+News
+======
+- Attending to ICA2021 virtual confernece. (May 2020)
+
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
