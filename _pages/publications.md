@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
 **Working Papers**
 
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (Writing Completed), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media" [[Working Paper](https://www.dropbox.com/s/7yhz5rbv64pophu/manuscript.pdf?dl=0)]
@@ -22,6 +23,8 @@ author_profile: true
 0. Min, S., **Chae, J. H.**, & Han, S., (In Writing Manuscript), "Event Segmentation in Memory for Real-world Social Events" [[Brief Summary](https://www.dropbox.com/s/34nlh6xqev84e6z/abstract.pdf?dl=0)] [[Slides](https://www.dropbox.com/s/gnlscp7gwiwe0hh/PPT_KSCBP2020.pdf?dl=0)]
 
 0. Min, S., **Chae, J. H.**, Lee, J. H., & Lee, S. Y., (In Writing Manuscript), "Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality" [[Brief Summary](https://www.dropbox.com/s/hcn5um2114qwqf9/abstract.pdf?dl=0)] [[Slides](https://www.dropbox.com/s/hxnzaffyn0y743h/PPT_KPA2020.pdf?dl=0)]
+
+---
 
 **Peer-Reviewed Academic Conference**
 
