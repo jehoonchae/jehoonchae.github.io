@@ -11,7 +11,8 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-top: 0.2em;
+  margin-bottom: 2em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -46,6 +47,10 @@
 
   img {
     width: 100%;
+  }
+
+  @media (max-width: 925px) {
+    display: none;
   }
 }
 
@@ -92,6 +97,10 @@
       border: 1px solid $border-color;
     }
   }
+
+  @media (max-width: 925px) {
+    display: none;
+  }
 }
 
 .author__content {
@@ -104,6 +113,11 @@
   @include breakpoint($large) {
     display: block;
     width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  @media (max-width: 925px) {
     padding-left: 0;
     padding-right: 0;
   }
@@ -128,11 +142,8 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
-
-  @media (max-width: 925px) {
-    display: none;
-  }
 }
+
 .sidebar .author__name {
   font-family: $header-font-family;
   font-size: $type-size-4;
@@ -162,11 +173,11 @@
     }
   }
   @media (max-width: 925px) {
-    display: table-cell;
+    display: inline-block;
     margin-top: 0px;
     padding-top: 0px;
-    margin-right: 2px;
-    padding-right: 2px;
+    margin-right: 5px;
+    padding-right: 5px;
   }
 }
 
