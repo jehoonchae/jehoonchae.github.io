@@ -11,9 +11,8 @@ author_profile: true
 {% endfor %} -->
 # Invited Lecturer
 ---
-
-**Text Mining and Web-Scraping with Python (Winter 2020)**
-- Eight weeks course addressing web-scraping and ML-based text mining with Pyhton  
+**Text Mining and Web-Scraping with Python (2020 Winter)**
+- Eight weeks course addressing web-scraping and ML-based text mining with Python  
 - Graduate, Department of Physical Education, Yonsei University
 
 &nbsp;
@@ -21,14 +20,14 @@ author_profile: true
 
 # Graduate Teaching Assistant
 ---
-**Communication Text Mining (Fall 2019)**
+**Communication Text Mining (2019 Fall)**
 - COM4206: Undergraduate, Department of Communication, Yonsei University
 - Instructor: Sang Yup Lee
 
-**Public Relations (Spring 2019)**
+**Public Relations (2019 Spring)**
 - COM3128: Undergraduate, Department of Communication, Yonsei University
 - Instructor: Jungho Han
 
-**Theories of Advanced Public Relation (Fall 2017)**
+**Theories of Advanced Public Relation (2017 Fall)**
 - COM3144: Undergraduate, Department of Communication, Yonsei University
 - Instructor: Jungho Han

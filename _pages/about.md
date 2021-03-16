@@ -23,7 +23,7 @@ I study political communication and computational social science. I received M.S
 
 # News
 ---
-- Attending to ICA2021 virtual confernece. (May 2020)
+- Attending to ICA2021 virtual conference (2021 May)
 
 &nbsp;
 

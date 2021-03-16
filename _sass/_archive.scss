@@ -19,7 +19,7 @@
     padding-right: 250px;
 
   }
-  
+
   a {
     text-decoration: underline;
 
@@ -56,7 +56,6 @@
 
 /* remove border*/
 .page__content {
-
   @include breakpoint($x-large) {
     padding-right: 100px;
   }
@@ -65,14 +64,18 @@
     margin-top: 1em;
     border-bottom: none;
   }
+
+  p {
+    margin-top: 0.5em;
+  }
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
   font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
+    margin-top: 0.5em;
   }
 }
 
