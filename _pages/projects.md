@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
   ---
 {% endfor %} -->
-# Projects
+## Projects
 ---
 [![Project 3 thumbnail](/images/thumbnail_project03.jpeg){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project03_fact-checking-by-partisan-media)
 
@@ -23,6 +23,8 @@ Does fact-checking news delivered by partisan media still have effectiveness? Ho
 
 &nbsp;
 
+---
+
 [![Project 2 thumbnail](/images/thumbnail_project02.png){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project02_event-segmentation)
 
 [**Event Segmentation in Memory for Real-World Social Events: A case study on COVID-19**](/projects/project02_event-segmentation)
@@ -32,6 +34,8 @@ With [Seokyoung Min](https://sites.google.com/view/seokyoungmin/home?authuser=0)
 How do we remember real-world events? Are event boundaries of memory for real-world events related to the pattern of media coverage? For the purpose, we compared individuals' common six event boundaries and news topics event boundaries segmented with Hidden Markov Model (HMM). We show that behavioral event boundaries in memory and data-driven HMM boundaries in news topics were significantly matched.
 
 &nbsp;
+
+---
 
 [![Project 1 thumbnail](/images/thumbnail_project01.png){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project01_image-as-data)
 

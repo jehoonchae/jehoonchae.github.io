@@ -15,3 +15,30 @@ Abundant of scholarly works explored the corrective intervention on political mi
 ## Keywords
 
 fact-checking, correction, persuasion, motivated reasoning, partisan media, bias perception
+
+&nbsp;
+
+## Figures
+
+&nbsp;
+<p align="center">
+  <img src="/images/project_03/figure_01.png" width="85%">
+</p>
+<p style="text-align:center; font-weight:bold;">Figure 1. Effect of Fact-Checking News in Each Experimental Group</p>
+
+&nbsp;
+
+&nbsp;
+
+<p align="center">
+  <img src="/images/project_03/figure_02.png" width="85%">
+</p>
+<p style="text-align:center; font-weight:bold;">Figure 2. Perceived Bias Toward Fact-Checking News</p>
+&nbsp;
+
+&nbsp;
+
+<p align="center">
+  <img src="/images/project_03/figure_03.png" width="70%">
+</p>
+<p style="text-align:center; font-weight:bold;">Figure 3. Intensity of Bias Perception by Ideological Strength</p>

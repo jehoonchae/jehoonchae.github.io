@@ -13,3 +13,42 @@ Our daily lives are a continuous stream of sensory information. Yet when we reca
 ## Keywords
 
 real-world event, event segmentation, text analysis, topic modeling, hidden markov model (HMM)
+
+&nbsp;
+
+## Figures
+
+<p align="center">
+  <img src="/images/project_02/figure_01.png" width="70%">
+</p>
+<p style="text-align:center; font-weight:bold;">Figure 1. Overall Scheme of the research</p>
+&nbsp;
+
+&nbsp;
+
+![figure_02](/images/project_02/figure_02.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 2. Result of Behavioral Data Analysis</p>
+&nbsp;
+
+&nbsp;
+
+![figure_03](/images/project_02/figure_03.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 3. Scheme of Topic Modeling Approach</p>
+&nbsp;
+
+&nbsp;
+
+![figure_04](/images/project_02/figure_04.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 4. Example of Topics by Time</p>
+&nbsp;
+
+&nbsp;
+
+![figure_05](/images/project_02/figure_05.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 5. Times-Series Topic Segmentation with Hidden Markov Model (HMM)</p>
+&nbsp;
+
+&nbsp;
+
+![figure_06](/images/project_02/figure_06.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 6. Comparing Behavioral Analysis Result with HMM Result</p>

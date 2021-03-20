@@ -14,3 +14,28 @@ People share their personal experiences and thoughts with other people through s
 ## Keywords
 
 social media, Instagram, image analysis, topic modeling, fingerprinting, intersubject representational similarity analysis (RSA)  
+
+&nbsp;
+
+## Figures
+
+![figure_01](/images/project_01/figure_01.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 1. Overall Scheme of the research</p>
+&nbsp;
+
+&nbsp;
+
+![figure_02](/images/project_01/figure_02.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 2. Result of Idiosyncrasy Analysis</p>
+&nbsp;
+
+&nbsp;
+
+![figure_03](/images/project_01/figure_03.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 3. Result of Fingerprinting Analysis</p>
+&nbsp;
+
+&nbsp;
+
+![figure_04](/images/project_01/figure_04.png#center)
+<p style="text-align:center; font-weight:bold;">Figure 4. Result of Inter-Subject Representational Similarity (RSA) Analysis</p>
