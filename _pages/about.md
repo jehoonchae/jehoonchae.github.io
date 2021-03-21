@@ -8,26 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+<div class="hidden__avatar">
+  <img src="images/profile_square.png">
+  <br>
+  <h2>JE HOON CHAE</h2>
+  <div>
+    <p class="hidden__link"><a href="mailto:chaejehoon@yonsei.ac.kr"><i class="far fa-envelope"></i></a></p>
+    <p class="hidden__link"><a href="https://www.twitter.com/JehoonC"><i class="fab fa-twitter"></i></a></p>
+    <p class="hidden__link"><a href="https://www.github.com/jehoonchae"><i class="fab fa-github"></i></a></p>
+    <p class="hidden__link"><a href="/files/cv-jhchae.pdf"><i class="ai ai-cv ai-1x"></i></a></p>
+  </div>
+  <br>
+</div>
+
+## About Me
 ---
 I study political communication and computational social science. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically survey experiment, computational methods (e.g., text, image, audio data analysis). My master's degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of 21th Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302). If you want more information about me, read my [CV](/files/cv-jhchae.pdf).
 
 &nbsp;
 
-# Education
+## Education
 ---
 - M.S. Media Communication, Yonsei University (2020)
 - B.A. Communication, Yonsei University (2017)
 
 &nbsp;
 
-# News
+## News
 ---
 - Attending to [ICA2021](https://www.icahdq.org/page/ICA2021) virtual conference (2021 May)
 
 &nbsp;
 
-# Contacts
+## Contacts
 ---
 - E-mail: [chaejehoon@yonsei.ac.kr](mailto:chaejehoon@yonsei.ac.kr)
 - GitHub: [https://github.com/jehoonchae](https://github.com/jehoonchae)
