@@ -26,6 +26,8 @@ author_profile: true
 
 ## Peer-Reviewed Academic Conference
 ---
+0. **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, August), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media," *116th Annual Meeting of American Sociological Association (ASA)*, Virtual Conference (Scheduled). [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Working Paper](https://www.dropbox.com/s/7yhz5rbv64pophu/manuscript.pdf?dl=0)]
+
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, May), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media," *71th Annual Conference of International Communication Association (ICA)*, Virtual Conference (Scheduled). [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Working Paper](https://www.dropbox.com/s/7yhz5rbv64pophu/manuscript.pdf?dl=0)]
 
 0. Min, S., **Chae, J. H.**, & Han, S. (2020, August). "Event Segmentation in Memory for Real-world Social Events", *Annual Conference of the Korean Society for Cognitive & Biological Psychology*, Virtual Conference. [[Brief Summary](/projects/project02_event-segmentation)] [[Slides](https://www.dropbox.com/s/gnlscp7gwiwe0hh/PPT_KSCBP2020.pdf?dl=0)]
