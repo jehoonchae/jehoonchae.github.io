@@ -36,7 +36,8 @@ I study political communication and computational social science. I received M.S
 
 ## News
 ---
-- Attending to [ICA2021](https://www.icahdq.org/page/ICA2021) virtual conference (2021 May)
+- 2021 August: Attending to [116th Annual Meeting of American Sociological Association](https://www.asanet.org/news-events/meetings)
+- 2021 May: Attending to [71th Annual Conference of International Communication Association](https://www.icahdq.org/page/ICA2021)
 
 &nbsp;
 
