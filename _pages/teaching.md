@@ -10,7 +10,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Invited Lecturer
+# Invited Lecturer
 ---
 - Text Mining and Web-Scraping with Python (2020 Winter)
   - Eight weeks course addressing web-scraping and ML-based text mining with Python  
@@ -18,7 +18,7 @@ author_profile: true
 
 &nbsp;
 
-## Teaching Assistant
+# Teaching Assistant
 ---
 - Communication Text Mining (2019 Fall)
   - COM4206: Undergraduate, Department of Communication, Yonsei University

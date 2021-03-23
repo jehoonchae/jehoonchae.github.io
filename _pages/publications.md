@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Working Papers
+# Working Papers
 ---
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (Writing Completed), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media" [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Working Paper](https://www.dropbox.com/s/7yhz5rbv64pophu/manuscript.pdf?dl=0)]
 
@@ -24,7 +24,7 @@ author_profile: true
 
 &nbsp;
 
-## Peer-Reviewed Academic Conference
+# Peer-Reviewed Academic Conference
 ---
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, August), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media," *116th Annual Meeting of American Sociological Association (ASA)*, Virtual Conference (Scheduled). [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Working Paper](https://www.dropbox.com/s/7yhz5rbv64pophu/manuscript.pdf?dl=0)]
 
