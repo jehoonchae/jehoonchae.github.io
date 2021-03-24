@@ -13,7 +13,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
 
   @include breakpoint($medium) {
-    font-size: $type-size-5;
+    font-size: 0.95em;
   }
 
   -webkit-text-size-adjust: 100%;
