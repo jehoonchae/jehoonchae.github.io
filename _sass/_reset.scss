@@ -8,12 +8,12 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 0.95em;
+  font-size: $type-size-5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
   @include breakpoint($medium) {
-    font-size: 0.95em;
+    font-size: $type-size-5;
   }
 
   -webkit-text-size-adjust: 100%;
