@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Merriweather Sans", "Raleway", "PT Sans", "SF Pro", "Bretan Pro", "Roboto", "Fira Sans", "Poppins", "Helvetica Neue", "Source Sans Pro", "Noto Sans", ".SFNSText-Regular", "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Open Sans", "Merriweather Sans", "Raleway", "PT Sans", "SF Pro", "Bretan Pro", "Roboto", "Fira Sans", "Poppins", "Helvetica Neue", "Source Sans Pro", "Noto Sans", ".SFNSText-Regular", "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : "Catamaran", "Open Sans";
+$header-font-family         : "Raleway", "Catamaran", "Open Sans";
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -38,7 +38,7 @@ $type-size-2                : 1.8em;  // ~31.248px
 $type-size-3                : 1.563em;  // ~25.008px
 // $type-size-4                : 1.25em;   // ~20px
 $type-size-4                : 1.3em;
-$type-size-5                : 1em;      // ~16px
+$type-size-5                : 1.05em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
@@ -54,8 +54,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 80%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : rgb(250, 250, 250);
+$background-color           : rgb(250, 250, 250);
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 // $text-color                 : $dark-gray;
