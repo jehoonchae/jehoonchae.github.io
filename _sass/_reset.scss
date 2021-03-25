@@ -12,6 +12,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+
   @include breakpoint($medium) {
     font-size: 0.95em;
   }
