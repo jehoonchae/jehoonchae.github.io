@@ -36,12 +36,14 @@ I study political communication and computational social science. I received M.S
 
 # News
 ---
-- 2021 August
-  - Attending to 116<sup>th</sup> Annual Meeting of American Sociological Association (ASA), Politics and the Media in the Communication, Information Technologies, and Media Sociology (CITAMS) section roundtables
-- 2021 July
-  - Attending to the Summer Institute for Computational Social Science (SICSS) held at Keio University in Tokyo
-- 2021 May
-  - Attending to 71<sup>th</sup> Annual Conference of International Communication Association (ICA), Political Communication Division
+#### 2021 August
+- Attending to 116<sup>th</sup> Annual Meeting of American Sociological Association (ASA), Politics and the Media in the Communication, Information Technologies, and Media Sociology (CITAMS) section roundtables
+
+#### 2021 July
+- Attending to the Summer Institute for Computational Social Science (SICSS) held at Keio University in Tokyo
+
+#### 2021 May
+- Attending to 71<sup>th</sup> Annual Conference of International Communication Association (ICA), Political Communication Division
 
 &nbsp;
 
