@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <!-- {% include base_path %} -->
-# Curriculum Vitae
+## Curriculum Vitae
 ---
 Download PDF file [here](/files/cv-jhchae.pdf)
 

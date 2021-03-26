@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
   ---
 {% endfor %} -->
-# Projects
+## Projects
 ---
 [![Project 3 thumbnail](/images/thumbnail_project03.jpeg){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project03_fact-checking-by-partisan-media)
 
