@@ -168,7 +168,7 @@
     text-decoration: none;
     &:hover {
       color: $link-color;
-      transition-duration: 0s;
+      transition-duration:0.005s;
       opacity: 1;
     }
   }

@@ -23,14 +23,16 @@ redirect_from:
 
 ## About Me
 ---
-I study political communication and computational social science. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, audio data analysis). My master's degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302). If you want more information about me, read my [CV](/files/cv-jhchae.pdf).
+I study political communication and computational social science. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, audio data analysis). My master's degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302).
+
+For more information, please check my [CV](/files/cv-jhchae.pdf).
 
 &nbsp;
 
 ## Education
 ---
-- M.S. Media Communication, Yonsei University (2020)
-- B.A. Communication, Yonsei University (2017)
+- M.S. Media Communication, Yonsei University (Sept 2017 - Feb 2020)
+- B.A. Communication, Yonsei University (Mar 2012 - Aug 2017)
 
 &nbsp;
 
