@@ -36,7 +36,7 @@ author_profile: true
 0. **Chae, J. H.**, & Lee, S. Y. (2020, July). "The Persuasion Effect of Fact-Checking News and Perceived Media Bias," *Annual Conference of the Korean Communication Association*, Daegu, Republic of Korea.
   - **Selected for The Best Graduate Student Paper (First Prize)** [[Link (Korean)](https://comm.or.kr/news/notice1/1000012302)]
 
-0. Min, S., **Chae, J. H.**, Lee, J. H., & Lee, S. Y. (2020, July). "Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality," *Annual Conference of the Korean Psychology Association*, Virtual Conference. 
+0. Min, S., **Chae, J. H.**, Lee, J. H., & Lee, S. Y. (2020, July). "Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality," *Annual Conference of the Korean Psychology Association*, Virtual Conference.
 
 0. **Chae, J. H.** (2019, October). "How News Media Covered #MeToo Movement: Application of Structural Topic Modeling and Word Embedding," *10<sup>th</sup> Honours Symposium for Asian Ph.D. Students in Communication Research*, Seoul, Republic of Korea.
 
