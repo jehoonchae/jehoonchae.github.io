@@ -24,7 +24,7 @@ author_profile: true
 
 &nbsp;
 
-## Peer-Reviewed Academic Conference
+## Conference Presentations
 ---
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, August), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media," *116<sup>th</sup> Annual Meeting of American Sociological Association (ASA)*, Virtual Conference (Scheduled).
 

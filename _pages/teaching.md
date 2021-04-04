@@ -10,7 +10,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Invited Lecturer
+## Part-Time Lecturer
 ---
 - Text Mining and Web-Scraping with Python (2020 Winter)
   - Eight weeks course addressing web-scraping and ML-based text mining with Python  
