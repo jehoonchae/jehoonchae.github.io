@@ -31,8 +31,8 @@ For more information, please check my [CV](/files/cv-jhchae.pdf).
 
 ## Education
 ---
-- M.S. Media Communication, Yonsei University (2020)
-- B.A. Communication, Yonsei University (2017)
+- 2017--2020: M.S. Media Communication, Yonsei University
+- 2012--2017: B.A. Communication, Yonsei University
 
 &nbsp;
 

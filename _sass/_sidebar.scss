@@ -109,6 +109,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-size: 1em;
 
   @include breakpoint($large) {
     display: block;
@@ -164,6 +165,7 @@
 
 .author__link {
   a {
+    font-weight: 400;
     color: $masthead-link-color;
     text-decoration: none;
     &:hover {
