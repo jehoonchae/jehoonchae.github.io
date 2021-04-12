@@ -21,7 +21,7 @@ redirect_from:
   <br>
 </div>
 
-## Bio
+# Bio
 ---
 Thank you for visiting my website. I am a postmaster researcher in Department of Communication at Yonsei University. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, and audio data analysis). My master's degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302).
 
@@ -29,14 +29,14 @@ For more information, please check my [CV](/files/cv-jhchae.pdf).
 
 &nbsp;
 
-## Education
+# Education
 ---
 - 2017--2020: M.S. Media Communication, Yonsei University
 - 2012--2017: B.A. Communication, Yonsei University
 
 &nbsp;
 
-## News
+# News
 ---
 #### 2021 August
 - Attending to 116<sup>th</sup> Annual Meeting of American Sociological Association (ASA), Politics and the Media in the Communication, Information Technologies, and Media Sociology (CITAMS) section roundtables
@@ -49,7 +49,7 @@ For more information, please check my [CV](/files/cv-jhchae.pdf).
 
 &nbsp;
 
-## Contacts
+# Contacts
 ---
 - E-mail: [chaejehoon@yonsei.ac.kr](mailto:chaejehoon@yonsei.ac.kr)
 - GitHub: [https://github.com/jehoonchae](https://github.com/jehoonchae)
