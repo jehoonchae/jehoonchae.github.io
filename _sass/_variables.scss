@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Open Sans", "Merriweather Sans", "Raleway", "PT Sans", "SF Pro", "Bretan Pro", "Roboto", "Fira Sans", "Poppins", "Helvetica Neue", "Source Sans Pro", "Noto Sans", ".SFNSText-Regular", "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Raleway", "Open Sans", "Merriweather Sans", "PT Sans", "SF Pro", "Bretan Pro", "Roboto", "Fira Sans", "Poppins", "Helvetica Neue", "Source Sans Pro", "Noto Sans", ".SFNSText-Regular", "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -38,7 +38,7 @@ $type-size-2                : 1.8em;  // ~31.248px
 $type-size-3                : 1.563em;  // ~25.008px
 // $type-size-4                : 1.25em;   // ~20px
 $type-size-4                : 1.3em;
-$type-size-5                : 0.95em;      // ~16px
+$type-size-5                : 1.05em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
@@ -59,14 +59,14 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 // $text-color                 : $dark-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #000;
 $border-color               : $lighter-gray;
 
-$primary-color              : $dark-gray;
+$primary-color              : #000;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #0E4D92; // #326eb3; #0E4D92;
+$info-color                 : #0E4D92; // #326eb3; #0E4D92; #052A4C
 
 /* brands */
 $behance-color              : #1769FF;

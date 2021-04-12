@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %} -->
 ## Projects
 ---
-[![Project 3 thumbnail](/images/thumbnail_project03.jpeg){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project03_fact-checking-by-partisan-media)
+[![Project 3 thumbnail](/images/thumbnail_project03.png){:style="float:right; margin-left:10px; margin-top:0px; margin-bottom:5px; width:170px"}](/projects/project03_fact-checking-by-partisan-media)
 
 [**Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media**](/projects/project03_fact-checking-by-partisan-media)
 
