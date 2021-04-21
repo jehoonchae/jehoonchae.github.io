@@ -36,19 +36,13 @@ For more information, please check my [CV](/files/cv-jhchae.pdf).
 
 &nbsp;
 
-# News
+# Latest News
 ---
-#### 2021 October
-- Attending to 117<sup>th</sup> Annual Meeting of American Political Science Association (APSA), Political Communication Division, Fact-Checking and Misinformation Correction session as presenter
 
-#### 2021 August
-- Attending to 116<sup>th</sup> Annual Meeting of American Sociological Association (ASA), Politics and the Media in the Communication, Information Technologies, and Media Sociology (CITAMS) section roundtables as presenter
-
-#### 2021 July
-- Attending to the Summer Institute for Computational Social Science (SICSS) held at Keio University in Tokyo
-
-#### 2021 May
-- Attending to 71<sup>th</sup> Annual Conference of International Communication Association (ICA), Political Communication Division as presenter
+- Oct 2021: Attending to 117<sup>th</sup> Annual Meeting of American Political Science Association (APSA), Political Communication Division, Fact-Checking and Misinformation Correction session as presenter
+- Aug 2021: Attending to 116<sup>th</sup> Annual Meeting of American Sociological Association (ASA), Politics and the Media in the Communication, Information Technologies, and Media Sociology (CITAMS) section roundtables as presenter
+- Jul 2021: Attending to the Summer Institute for Computational Social Science (SICSS) held at Keio University
+- May 2021: Attending to 71<sup>th</sup> Annual Conference of International Communication Association (ICA), Political Communication Division as presenter
 
 &nbsp;
 
