@@ -30,8 +30,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-top: 0.3em;
-  margin-bottom: 0.3em;
+  // margin-top: 0.3em;
+  // margin-bottom: 0.3em;
   font-size: $type-size-2;
 }
 
@@ -40,14 +40,14 @@ h2 {
 }
 
 h3 {
-  margin-top: 0.5em;
-  margin-bottom: 0em;
+  // margin-top: 0.5em;
+  // margin-bottom: 0.5em;
   font-size: $type-size-4;
 }
 
 h4 {
-  margin-top: 0.5em;
-  margin-bottom: 0em;
+  // margin-top: 0.5em;
+  // margin-bottom: 0em;
   font-size: $type-size-5;
 }
 
@@ -195,13 +195,13 @@ hr {
 ul li,
 ol li {
   padding-left: 0px;
-  margin-top: 0.4em;
-  margin-bottom: 0.4em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.4em;
+  margin-top: 0.1em;
 }
 
 /*

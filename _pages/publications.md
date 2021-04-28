@@ -14,17 +14,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Working Papers
+## Working Papers
 ---
-0. **Chae, J. H.**, Song, H., & Lee, S. Y., (In Preparation), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media" [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)]
+0. **Chae, J. H.**, Song, H., & Lee, S. Y., (work in progress), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media"
+- [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Poster (ICA)](/files/project03_poster.pdf)]
 
-0. Min, S., **Chae, J. H.**, & Han, S., (In Writing Manuscript), "Event Segmentation in Memory for Real-world Social Events: A case of COVID-19" [[Brief Summary](/projects/project02_event-segmentation)] [[Slides](https://www.dropbox.com/s/gnlscp7gwiwe0hh/PPT_KSCBP2020.pdf?dl=0)]
+0. Min, S., **Chae, J. H.**, & Han, S., (work in progress), "Event Segmentation in Memory for Real-world Social Events: A case of COVID-19"
+- [[Brief Summary](/projects/project02_event-segmentation)] [[Slides](https://www.dropbox.com/s/gnlscp7gwiwe0hh/PPT_KSCBP2020.pdf?dl=0)]
 
-0. Min, S., **Chae, J. H.**, Lee, J. H., & Lee, S. Y., (In Writing Manuscript), "Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality" [[Brief Summary](/projects/project01_image-as-data)] [[Slides](https://www.dropbox.com/s/hxnzaffyn0y743h/PPT_KPA2020.pdf?dl=0)]
+0. Min, S., **Chae, J. H.**, Lee, J. H., & Lee, S. Y., (work in progress), "Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality"
+- [[Brief Summary](/projects/project01_image-as-data)] [[Slides](https://www.dropbox.com/s/hxnzaffyn0y743h/PPT_KPA2020.pdf?dl=0)]
 
 &nbsp;
 
-# Conference Presentations
+## Conference Presentations
 ---
 0. **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, October), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media," *117<sup>th</sup> Annual Meeting of American Political Science Association (APSA)*, Virtual Conference.
 
