@@ -40,8 +40,9 @@
   }
 
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-5;
+    font-family: $header-font-family;
+    font-size: 0.9em;
+    font-weight: 300;
     line-height: 1.5;
   }
 
@@ -110,7 +111,6 @@
   padding-right: 25px;
   line-height: 1;
   font-size: 1em;
-  font-family: $header-font-family;
 
   @include breakpoint($large) {
     display: block;
@@ -151,8 +151,10 @@
   font-size: $type-size-4;
 }
 
-.author__bio {
+.author__bio {  
   margin: 0;
+  margin-top: 10px;
+
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -166,7 +168,7 @@
 
 .author__link {
   a {
-    font-weight: 400;
+    font-weight: 300;
     color: $masthead-link-color;
     text-decoration: none;
     &:hover {
