@@ -13,7 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.4;
   font-weight: 400;
 
   &.overflow--hidden {
@@ -85,8 +85,8 @@ del a {
 /* reduce orphans and widows when printing */
 
 ul {
-  margin-top: 0.6em;
-  margin-bottom: 0.6em;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
   padding-inline-start: 1.2em;
 }
 
@@ -196,12 +196,13 @@ ul li,
 ol li {
   padding-left: 0px;
   margin-top: 0.1em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.2em;
 }
 
 li ul,
 li ol {
   margin-top: 0.1em;
+  margin-bottom: 0.2em;
 }
 
 /*

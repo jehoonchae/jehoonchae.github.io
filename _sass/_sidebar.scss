@@ -110,6 +110,7 @@
   padding-right: 25px;
   line-height: 1;
   font-size: 1em;
+  font-family: $header-font-family;
 
   @include breakpoint($large) {
     display: block;
@@ -152,7 +153,7 @@
 
 .author__bio {
   margin: 0;
-  
+
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
