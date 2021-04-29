@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JE HOON CHAE"
+title                    : "Je Hoon Chae"
 title_separator          : "-"
 name                     : &name "Je Hoon Chae"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : " "
   avatar           : "profile_square.png"
-  bio              : "Graduate student studying political communication and computational social science."
+  bio              : "Graduate student studying political communication and computational social science"
   location         : "Somewhere"
   employer         :
   pubmed           :

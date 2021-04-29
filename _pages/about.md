@@ -11,7 +11,7 @@ redirect_from:
 <div class="hidden__avatar">
   <img src="images/profile_square.png">
   <br>
-  <h2>JE HOON CHAE</h2>
+  <h2>Je Hoon Chae</h2>
   <div>
     <p class="hidden__link"><a href="mailto:chaejehoon@yonsei.ac.kr"><i class="far fa-envelope"></i></a></p>
     <p class="hidden__link"><a href="https://www.twitter.com/JehoonC"><i class="fab fa-twitter"></i></a></p>
