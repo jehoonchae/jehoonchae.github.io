@@ -151,10 +151,8 @@
   font-size: $type-size-4;
 }
 
-.author__bio {  
+.author__bio {
   margin: 0;
-  margin-top: 10px;
-
 
   @include breakpoint($large) {
     margin-top: 10px;
