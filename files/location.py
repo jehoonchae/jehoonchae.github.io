@@ -7,18 +7,13 @@ location_list = ["삿포로시","오타루시","오비히로시","利尻島", "�
                  "Fljótsdalshérað","Bakkagerði","Langanesbyggð","Skinnastaðir","Dettifoss","Akureyri","Blönduós",
                  "Frankfurt am Main","Amsterdam","Haarlem","Enkhuizen","Netherlands Harlingen",
                  "València","Spain Cartagena","Pampaneira","Órgiva","Nerja","Málaga","Granada","Murcia","Ronda","Zahara de la Sierra",
-                 "Gibraltar", "Auckland","Christchurch","Ashburton","Lake Tekapo","Twizel","Queenstown","Milford Sound","Te Anau",
+                 "Gibraltar", "Auckland","Christchurch","News Zealand Ashburton","Lake Tekapo","Twizel","Queenstown","Milford Sound","Te Anau",
                  "Washington","New York", "Seoul", "Pohang", "Jeju"]
+
 locator = Nominatim(user_agent="myGeocoder")
-location = locator.geocode("New Zealand Ashburton", language='en')
-location.latitude
-location.longitude
-location[0].split(',')[0].strip()
-location[0].split(',')[-1].strip()
-type(longitude-2)
+
 with open('location_data.txt', 'w', encoding='utf8') as f:
     for location in location_list:
-        locator = Nominatim(user_agent="myGeocoder")
         region_info = locator.geocode(location, language='en')
         latitude = region_info.latitude
         longitude = region_info.longitude
