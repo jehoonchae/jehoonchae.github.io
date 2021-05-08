@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: ""
 type: "Work In Progress"
 permalink: /projects/project02_event-segmentation
