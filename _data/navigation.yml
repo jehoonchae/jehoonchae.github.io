@@ -4,8 +4,8 @@ main:
   # - title: "Home"
   #   url: /about/
 
-  - title: "Research Interests"
-    url: /research_interests/
+  # - title: "Research Interests"
+  #   url: /research_interests/
 
   - title: "Projects"
     url: /projects/
