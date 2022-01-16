@@ -6,9 +6,9 @@ permalink: /projects/project03_fact-checking-by-partisan-media
 excerpt: "Work In Progress (with [Hyunjin Song](https://www.hyunjinsong.com) & Sang Yup Lee)"
 
 ---
-## Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media
+## Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media
 
-Authors: Je Hoon Chae, Hyunjin Song, & Sang Yup Lee
+Authors: Je Hoon Chae, Sang Yup Lee, & Hyunjin Song
 
 &nbsp;
 
