@@ -14,11 +14,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Working Papers
----
-- **Chae, J. H.**, Song, H., & Lee, S. Y., (work in progress), "Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media"
+## Under Review
+
+- **Chae, J. H.**, Song, H., & Lee, S. Y., (Under review), "Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media"
   - [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Poster (ICA)](/files/project03_poster.pdf)]
 
+## In preparation
+---
 - Min, S., **Chae, J. H.**, & Han, S., (work in progress), "Event Segmentation in Memory for Real-world Social Events: A case of COVID-19"
   - [[Brief Summary](/projects/project02_event-segmentation)] [[Slides](https://www.dropbox.com/s/gnlscp7gwiwe0hh/PPT_KSCBP2020.pdf?dl=0)]
 
