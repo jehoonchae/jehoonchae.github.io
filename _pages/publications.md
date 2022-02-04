@@ -16,7 +16,7 @@ author_profile: true
 
 ## Under Review
 ---
-- **Chae, J. H.**, Song, H., & Lee, S. Y., (Under review), "Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media"
+- **Chae, J. H.**, Lee, S. Y., & Song, H., (Under review), "Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media"
   - [[Brief Summary](/projects/project03_fact-checking-by-partisan-media)] [[Poster (ICA)](/files/project03_poster.pdf)]
 
 &nbsp;
