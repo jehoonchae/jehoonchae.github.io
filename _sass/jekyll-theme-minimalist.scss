@@ -1,30 +1,29 @@
 @import "fonts";
 @import "rouge-github";
 @import "colors";
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
   background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.4 "Fira Sans", "PT Sans", "Raleway", "Source Sans Pro", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;  // added
+  font: 15px/1.4 "PT Sans", "Fira Sans", "Raleway", "Source Sans Pro", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;  // added
   color: var(--clr-text);
-  font-weight: 300;
-  //-webkit-font-smoothing: antialiased;  // added
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;  // added
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Fira Sans Condensed";  // added
+  font-family: "PT Sans", "Fira Sans Condensed";  // added
   color: var(--clr-h1-and-bold);
   margin:0 0 20px;
-  font-weight:600;
+  font-weight:700;
   -webkit-font-smoothing: antialiased;  // added
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  font-weight: 300;
-  //-webkit-font-smoothing: antialiased;  // added
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;  // added
 }
 
 // added
@@ -32,7 +31,7 @@ p, ul, ol, table, pre, dl {
 // added
 ul, ol {
   //list-style: none;
-  margin-left: -25px;
+  margin-left: -20px;
   //padding-left: 5;
 }
 
