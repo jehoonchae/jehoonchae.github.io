@@ -1,6 +1,6 @@
-I"�V<!-- # Bio -->
+I"ZX<!-- # Bio -->
 
-<p>Thank you for visiting my website. I am a postmaster researcher in Department of Communication at Yonsei University. I received M.S. degree in Media Communication in 2020, and B.A. degree in Communication in 2017 both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, and audio data analysis). My master’s degree dissertation research exploring correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issue as the result of exposure to fact-checking by partisan news media in the context of South Korea. The research was awarded the Distinguished Dissertation Research Award of Yonsei University and <a href="https://comm.or.kr/news/notice1/1000012302">the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020</a>.</p>
+<p>Thank you for visiting my website. I’m an incoming Ph.D. student in the Department of Communication at the University of Illinois at Urbana-Champaign. Previously, I received an M.S. degree in Media Communication in 2020 and a B.A. degree in Communication in 2017, both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, and audio data analysis). My master’s degree dissertation research exploring the correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issues as the result of exposure to fact-checking by partisan news media in the context of South Korea The research was awarded the Distinguished Dissertation Research Award of Yonsei University and <a href="https://comm.or.kr/news/notice1/1000012302">the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020</a>. Also, I’m a receiver of the <a href="https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&amp;fid=4683">Illinois Distinguished Fellowship</a> in 2022.</p>
 
 <p>For more information, please check my <a href="assets/files/cv.pdf">CV</a>.</p>
 
@@ -11,7 +11,7 @@
 <h2 id="under-review">Under Review</h2>
 
 <ul>
-  <li>Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media. (with Sang Yup Lee and Hyunjin Song)
+  <li>Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media. (with Sang Yup Lee and Hyunjin Song). [<a href="https://github.com/revelunt/Fact-check-experiment">Code</a>]
     <details><summary>Abstract</summary><p>The effectiveness of and its boundary conditions regarding fact-checking news exposure have significant normative and practical implications. While many of the prior studies have focused on the attitudinal consequences of fact-checking news delivered by neutral third parties such as fact-check organizations, relatively less is known as to the effect of fact-checking news delivered by partisan media. Based on the frameworks of motivated reasoning and the hostile media effect, we investigate the possibility of decoupling between attitudinal persuasion and perceptual backfire by fact-checking news by partisan media—that is, exposure to fact-checking news increases bias perception of such news yet nevertheless attitudinally persuades audiences. Based on a series of original experiments conducted in South Korea and in the United States, we find consistent support for our prediction, in that exposure to fact-checking news produces the corrective effects, yet at the same time perceived bias of the fact-checking news systematically varies as a function of
 the ideological slant of partisan media.</p></details>
   </li>
@@ -46,21 +46,24 @@ the ideological slant of partisan media.</p></details>
 
 <h2 id="teaching-experiences">Teaching Experiences</h2>
 
-<p><em>Graduate Invited Lecturer (Yonsei University)</em></p>
 <ul>
-  <li>Text Mining and Web-Scraping with Python (2020 Winter)
+  <li>Graduate Invited Lecturer (Yonsei University)
     <ul>
-      <li>Eight weeks course of web-scraping and ML-based text mining with Python</li>
-      <li>Department of Physical Education, Yonsei University</li>
+      <li>Text Mining and Web-Scraping with Python (2020 Winter)
+        <ul>
+          <li>Eight weeks course of web-scraping and ML-based text mining with Python</li>
+          <li>Department of Physical Education, Yonsei University</li>
+        </ul>
+      </li>
     </ul>
   </li>
-</ul>
-
-<p><em>Undergraduate Teaching Fellow (Yonsei University)</em></p>
-<ul>
-  <li>COM4206: Communication Text Mining (2019 Fall)</li>
-  <li>COM3128: Public Relations (2019 Spring)</li>
-  <li>COM3144: Theories of Advanced Public Relation (2017 Fall)</li>
+  <li>Undergraduate Teaching Fellow (Yonsei University)
+    <ul>
+      <li>COM4206: Communication Text Mining (2019 Fall)</li>
+      <li>COM3128: Public Relations (2019 Spring)</li>
+      <li>COM3144: Theories of Advanced Public Relation (2017 Fall)</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="travel-dormant-because-of-covid-19">Travel (Dormant because of Covid-19…)</h2>
