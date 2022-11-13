@@ -7,17 +7,17 @@
 body {
   background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.4 "Fira Sans", "Open Sans", "PT Sans", "Helvetica Neue", "Raleway", "Source Sans Pro", "Noto Sans", Helvetica, Arial, sans-serif;  // added
+  font: 15px/1.4 "PT Sans", "Open Sans", "Fira Sans", "Helvetica Neue", "Raleway","Source Sans Pro", "Noto Sans", Helvetica, Arial, sans-serif;  // added
   color: var(--clr-text);
   font-weight: 400;
   -webkit-font-smoothing: antialiased;  // added
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Fira Sans Condensed", "PT Sans";  // added
+  font-family:  "PT Sans Narrow", "Open Sans", "Fira Sans Condensed";  // added
   color: var(--clr-h1-and-bold);
   margin:0 0 20px;
-  font-weight:700;
+  font-weight:600;
   -webkit-font-smoothing: antialiased;  // added
 }
 
@@ -57,7 +57,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:32px;
+  font-size:36px;
 }
 
 // added
