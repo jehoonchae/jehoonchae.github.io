@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media
-author: Je Hoon Chae
-tags: persuasion, fact-checking, partisan media, motivated reasoning
+author: Je Hoon Chae, Sang Yup Lee, and Hyunjin Song
 ---
+
+[Home](.)
 
 *This paper is Under Review in Political Psychology*
 
@@ -18,3 +19,9 @@ The effectiveness of and its boundary conditions regarding fact-checking news ex
 - [Pre-analysis plan](https://osf.io/ycrv9/)
 
 - [Code](https://github.com/revelunt/Fact-check-experiment)
+
+## Figures
+
+![Persuasive effect of fact-chekcing news](./research/fact-checking-fig-1.pdf)
+
+![Hostile media perception on fact-checking news](./research/fact-checking-fig-2.pdf)
