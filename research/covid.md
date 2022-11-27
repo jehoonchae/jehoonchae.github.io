@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event Segmentation in Memory for Real-world Social Events: A case of COVID-19
+title: Event Segmentation in Memory for Real-world Social Events. A case of COVID-19
 author: Seokyoung Min, Je Hoon Chae, and Sanghoon Han
 ---
 
