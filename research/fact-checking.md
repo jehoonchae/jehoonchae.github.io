@@ -20,9 +20,9 @@ The effectiveness of and its boundary conditions regarding fact-checking news ex
 
 ## Figures
 
-![Persuasive effect of fact-chekcing news](./fact-checking-fig-1.pdf)
+![Persuasive effect of fact-chekcing news](./fact-checking-fig-1.pdf "Persuasive effect of fact-chekcing news")
 
-![Hostile media perception on fact-checking news](./fact-checking-fig-2.png)
+![Hostile media perception on fact-checking news](./fact-checking-fig-2.png "Hostile media perception on fact-checking news")
 
 
 [Go Back to Home](https://jehoonchae.github.io)
