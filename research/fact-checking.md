@@ -4,8 +4,6 @@ title: Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking 
 author: Je Hoon Chae, Sang Yup Lee, and Hyunjin Song
 ---
 
-[Home](.)
-
 *This paper is Under Review in Political Psychology*
 
 ## Abstract
@@ -22,6 +20,9 @@ The effectiveness of and its boundary conditions regarding fact-checking news ex
 
 ## Figures
 
-![Persuasive effect of fact-chekcing news](./research/fact-checking-fig-1.pdf)
+![Persuasive effect of fact-chekcing news](./research/fact-checking-fig-1.png)
 
-![Hostile media perception on fact-checking news](./research/fact-checking-fig-2.pdf)
+![Hostile media perception on fact-checking news](./research/fact-checking-fig-2.png)
+
+
+[**Go Back to Home**](https://jehoonchae.github.io)
