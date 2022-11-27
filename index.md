@@ -6,31 +6,19 @@ layout: default
 
 ## About Me
 
-I’m a first-year Ph.D. student in the Department of Communication at the University of Illinois --  Urbana Champaign. Previously, I received an M.S. in Media Communication and a B.A. in Communication from Yonsei University.
+I’m a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. Previously, I received an M.S. in Media Communication and a B.A. in Communication from Yonsei University.
 
 ## Research Interests
 
 Broadly, my academic interests encompass theoretical political communication, public opinion, political psychology, and misinformation. Methodologically, I am interested in causal inference, and large-scale web-based experiments. I like to incorporate computational methods such as text, image, and audio data analysis in my research as I believe a multi-disciplinary approach can help advance the field of social science.
 
-My master’s degree dissertation explored  the correction effects of political fact-checking by partisan news media and investigated whether people changed their prior beliefs toward politically controversial issues as the result of their exposure to fact-checking. This study was conducted both in the context of South Korea and the United States.
-
-This research was awarded the Distinguished Dissertation Research Award at Yonsei University and [the Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the  Korean National Conference for Communication Graduate Students in 2020. I am also a  recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) in 2022.
-
-
-
-<!-- Thank you for visiting my website. I'm a Ph.D. student in the Department of Communication at the University of Illinois at Urbana-Champaign. Previously, I received an M.S. degree in Media Communication in 2020 and a B.A. degree in Communication in 2017, both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, and audio data analysis). My master’s degree dissertation research exploring the correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issues as the result of exposure to fact-checking by partisan news media in the context of South Korea The research was awarded the Distinguished Dissertation Research Award of Yonsei University and [the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020](https://comm.or.kr/news/notice1/1000012302). Also, I'm a recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) in 2022. -->
+My master’s degree dissertation explored  the correction effects of political fact-checking by partisan news media and investigated whether people changed their prior beliefs toward politically controversial issues as the result of their exposure to fact-checking. This study was conducted both in the context of South Korea and the United States. This research was awarded the Distinguished Dissertation Research Award at Yonsei University and [the Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the  Korean National Conference for Communication Graduate Students in 2020. I am also a  recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) in 2022.
 
 For more information, please check my [CV](assets/files/cv.pdf).
 
-<!-- [Blog test](./blog) -->
-
-<!-- [another page](./another-page) -->
-
 ## Under Review
 
-- Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media. (with Sang Yup Lee and Hyunjin Song). [[Code](https://github.com/revelunt/Fact-check-experiment)]
-  <details><summary>Abstract</summary><p>The effectiveness of and its boundary conditions regarding fact-checking news exposure have significant normative and practical implications. While many of the prior studies have focused on the attitudinal consequences of fact-checking news delivered by neutral third parties such as fact-check organizations, relatively less is known as to the effect of fact-checking news delivered by partisan media. Based on the frameworks of motivated reasoning and the hostile media effect, we investigate the possibility of decoupling between attitudinal persuasion and perceptual backfire by fact-checking news by partisan media—that is, exposure to fact-checking news increases bias perception of such news yet nevertheless attitudinally persuades audiences. Based on a series of original experiments conducted in South Korea and in the United States, we find consistent support for our prediction, in that exposure to fact-checking news produces the corrective effects, yet at the same time perceived bias of the fact-checking news systematically varies as a function of
-  the ideological slant of partisan media.</p></details>
+- [Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). (with Sang Yup Lee and [Hyunjin Song](http://www.hyunjinsong.com/)).
 
 
 ## Working Papers
