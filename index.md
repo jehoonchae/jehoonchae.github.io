@@ -33,7 +33,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Current Projects
 
-- Effect of Partisan Animosity on Biased Political Knowledge Learning (with David Tewksbury)
+- Effect of Partisan Animosity on Biased Political Knowledge Learning (with [David Tewksbury](https://communication.illinois.edu/directory/profile/tewksbur))
 
 <!-- - “Behavioral Intervention to Reduce Clickbait News Headline Preference” -->
 
@@ -61,7 +61,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
   - COM3128: Public Relations (2019 Spring)
   - COM3144: Theories of Advanced Public Relation (2017 Fall)
 
-## Travel (Dormant because of Covid-19...)
+## Travel
 
 <div>
 <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyD8j-SW3LBKgLJMJvB8MeGOMONcJQ42Nxg' type='text/javascript'></script><script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>

@@ -14,7 +14,7 @@ The effectiveness of and its boundary conditions regarding fact-checking news ex
 
 - [Link to Appendix](https://github.com/revelunt/Fact-check-experiment/blob/main/02_code/appendix.pdf)
 
-- [Pre-analysis plan](https://osf.io/ycrv9/)
+- [Pre-analysis plan](https://osf.io/jtbz5)
 
 - [Code](https://github.com/revelunt/Fact-check-experiment)
 
