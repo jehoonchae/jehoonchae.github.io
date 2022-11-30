@@ -11,6 +11,35 @@ Our daily lives are a continuous stream of sensory information. Yet when we reca
 
 ## Figures
 
+![](./covid-fig-1.png)
+<div align="center"><b>Figure 1.</b> Schematic overview of this study.</div>
 
+<p>&nbsp;</p>
 
+![](./covid-fig-2.png)
+<div align="center"><b>Figure 2.</b> Behavioral results.</div>
+
+<p>&nbsp;</p>
+
+![](./covid-fig-3.png)
+<div align="center"><b>Figure 3.</b> Our topic modeling approach.</div>
+
+<p>&nbsp;</p>
+
+![](./covid-fig-4.png)
+<div align="center"><b>Figure 4.</b> Example of topics.</div>
+
+<p>&nbsp;</p>
+
+![](./covid-fig-5.png)
+<div align="center"><b>Figure 5.</b> Topic time-series with Hidden Markov Model (HMM) boundaries.</div>
+
+<p>&nbsp;</p>
+
+![](./covid-fig-6.png)
+<div align="center"><b>Figure 6.</b> Matching between behavioral results and HMM results.</div>
+
+<p>&nbsp;</p>
+
+[Go Back to Home](https://jehoonchae.github.io)
 
