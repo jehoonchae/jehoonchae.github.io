@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Media Frame the \#MeToo Movement in South Korea? Automated Content Analysis
+title: How Media Frame the #MeToo Movement in South Korea? Automated Content Analysis
 author: Je Hoon Chae
 ---
 
@@ -8,6 +8,14 @@ author: Je Hoon Chae
 
 When a social event of a minority issue happen, how news media address and frame the issue has a significant impact on the remaining majority's understanding and impression of the issue. Here, I show how news media frame the same issue drastically different from each other, depending on their political slant. For this purpose, I collected all the text and metadata of news articles about the #MeToo movement in South Korea for two years (from October 2017 to October 2019). Applying structural topic modeling, I show that (1) news media with different political slants significantly address this issue in different ways: conservative media was heavily focused on the liberal politicians' #MeToo scandals, while liberal media was focused on the institutional and structural cause of the problem. Also, using a vector space word embedding algorithm (i.e., word2vec), I show that the overall media landscape was more aligned with the framing of conservative media than the framing of liberal media.
 
+<p>&nbsp;</p>
+
+## Links
+
+- [[Code](https://github.com/jehoonchae/metoo-news-frame.git)]
+
+
+<p>&nbsp;</p>
 
 ## Figures
 
