@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality
+title: Image as Data. How Instagram Photos Reveal Individual’s Characteristics and Personality
 author: Seokyoung Min, Jong Hyun Lee, and Sang Yup Lee
 ---
 
