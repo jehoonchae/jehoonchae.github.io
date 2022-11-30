@@ -25,6 +25,8 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 - The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections (with JungHwan Yang, Ashank Tomar, and Xiujia Yang)
 
+- [How Media Frame the \#MeToo Movement in South Korea? Automated Content Analysis](research/metoo.md). (with Sang Yup Lee)
+
 - [Event Segmentation in Memory for Real-world Social Events: A case of COVID-19](research/covid.md). (with Seokyoung Min and Sanghoon Han)
 
 - [Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality](research/instagram.md). (with Seokyoung Min, Jong Hyun Lee, and Sang Yup Lee)
