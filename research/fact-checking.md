@@ -12,6 +12,8 @@ The effectiveness of and its boundary conditions regarding fact-checking news ex
 
 ## Links
 
+- [Preprint](https://www.dropbox.com/s/nqg9ruoic9jd6eg/preprint.pdf?dl=0)
+
 - [Link to Appendix](https://github.com/revelunt/Fact-check-experiment/blob/main/02_code/appendix.pdf)
 
 - [Pre-analysis plan](https://osf.io/jtbz5)
