@@ -23,7 +23,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Working Papers
 
-- The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections (with JungHwan Yang, Ashank Tomar, and Xiujia Yang)
+- [The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections](research/trump.md) (with JungHwan Yang, Ashank Tomar, and Xiujia Yang)
 
 - [How Media Frame the \#MeToo Movement in South Korea? Automated Content Analysis](research/metoo.md). (with Sang Yup Lee)
 
@@ -52,7 +52,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 ## Teaching Experiences
 
 - Graduate Invited Lecturer (Yonsei University)
-  - Text Mining and Web-Scraping with Python (2020 Winter)
+  - Text Mining and Web-Scraping with Python (2020 Winter) [[See the code and materials](https://github.com/jehoonchae/python-study)]
     - Eight weeks course of web-scraping and ML-based text mining with Python
     - Department of Physical Education, Yonsei University
 
