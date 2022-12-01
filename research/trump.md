@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Effects of Trump's Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections
-author: JungHwan Yang, Ashank Tomar, Je Hoon Chae, \& Xiujia Yang
+author: JungHwan Yang, Ashank Tomar, Je Hoon Chae, & Xiujia Yang
 ---
 
 ## Abstract
@@ -19,3 +19,5 @@ Former president Donald J. Trump has endorsed more than 400 candidates who share
 <div align="center"><b>Figure 2.</b> Number of issue varies by time in each state (pre and post endorsement comparison) </div>
 
 <p>&nbsp;</p>
+
+[Go Back to Home](https://jehoonchae.github.io)
