@@ -18,7 +18,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Under Review
 
-- [Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). (with Sang Yup Lee and [Hyunjin Song](http://www.hyunjinsong.com/)). *Under Review in Political Psychology*
+- [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). (with Sang Yup Lee and [Hyunjin Song](http://www.hyunjinsong.com/)). *Under Review in Political Psychology*
 
 
 ## Working Papers

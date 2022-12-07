@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media
+title: Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media
 author: Je Hoon Chae, Sang Yup Lee, and Hyunjin Song
 ---
 
