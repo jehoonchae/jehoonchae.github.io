@@ -16,9 +16,9 @@ My master’s degree dissertation explored  the correction effects of political 
 
 For more information, please check my [CV](assets/files/cv.pdf).
 
-## Under Review
+## Publication
 
-- [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). (with Sang Yup Lee and [Hyunjin Song](http://www.hyunjinsong.com/)). *R&R in Political Psychology*
+- **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). * Political Psychology*
 
 
 ## Working Papers
