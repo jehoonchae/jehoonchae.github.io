@@ -18,7 +18,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Publication
 
-- **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). * Political Psychology*
+- **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). *Political Psychology*
 
 
 ## Working Papers
