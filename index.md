@@ -39,7 +39,7 @@ For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Conference Presentations
 
-- Yang, J., Tomar, A., **Chae, J. H.**, & Yang, X. (2023, April, Scheduled). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
+- Yang, J., Tomar, A., **Chae, J. H.**, & Yang, X. (2023, April). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
 
 - **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *117th Annual Meeting of American Political Science Association (APSA)*, Virtual Conference.
 
