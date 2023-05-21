@@ -2,40 +2,17 @@
 layout: default
 ---
 
-<!-- # Bio -->
+## Bio
 
-## About Me
+I am currently a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. Prior to this, I completed an M.S. in Media Communication and a B.A. in Communication from Yonsei University. My research interests include political communication, public opinion, political psychology, and misinformation. From a methodological perspective, I specialize in causal inference and conducting large-scale web-based experiments. I strongly advocate for the use of computational methods—including text, image, and audio data analysis—in my research, which I believe can significantly contribute to the advancement of social sciences.
 
-I’m a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. Previously, I received an M.S. in Media Communication and a B.A. in Communication from Yonsei University.
-
-## Research Interests
-
-Broadly, my academic interests encompass theoretical political communication, public opinion, political psychology, and misinformation. Methodologically, I am interested in causal inference, and large-scale web-based experiments. I like to incorporate computational methods such as text, image, and audio data analysis in my research as I believe a multi-disciplinary approach can help advance the field of social science.
-
-My master’s degree dissertation explored  the correction effects of political fact-checking by partisan news media and investigated whether people changed their prior beliefs toward politically controversial issues as the result of their exposure to fact-checking. This study was conducted both in the context of South Korea and the United States. This research was awarded the Distinguished Dissertation Research Award at Yonsei University and [the Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the  Korean National Conference for Communication Graduate Students in 2020. I am also a  recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) in 2022.
+During my master's program, I delved into the correction effects of political fact-checking by partisan news media, examining the change in people's prior beliefs towards politically controversial issues following exposure to fact-checking. This study spanned two distinct contexts: South Korea and the United States. My research received recognition through the Distinguished Dissertation Research Award at Yonsei University and [the Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am a proud recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) for 2022.
 
 For more information, please check my [CV](assets/files/cv.pdf).
 
 ## Publication
 
 - **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). *Political Psychology*
-
-
-## Working Papers
-
-- [The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections](research/trump.md) (with JungHwan Yang, Ashank Tomar, and Xiujia Yang)
-
-- [How Media Frame the \#MeToo Movement in South Korea? Automated Content Analysis](research/metoo.md). (with Sang Yup Lee)
-
-- [Event Segmentation in Memory for Real-world Social Events: A case of COVID-19](research/covid.md). (with Seokyoung Min and Sanghoon Han)
-
-- [Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality](research/instagram.md). (with Seokyoung Min, Jong Hyun Lee, and Sang Yup Lee)
-
-## Current Projects
-
-- Effect of Partisan Animosity on Biased Political Knowledge Learning (with [David Tewksbury](https://communication.illinois.edu/directory/profile/tewksbur))
-
-<!-- - “Behavioral Intervention to Reduce Clickbait News Headline Preference” -->
 
 ## Conference Presentations
 
@@ -326,9 +303,24 @@ google.charts.setOnLoadCallback(drawVisualization);
  data.addRows([[33.3939924,126.5626653,'Jeju-do (South Korea)',82,'']]);
  ivalue['33.3939924'] = '';
 
+ data.addRows([[39.7392358,-104.990251,'Denver (United States)',83,'']]);
+ivalue['39.7392358'] = '';
+
+data.addRows([[41.8781136,-87.6297982,'Chicago (United States)',84,'']]);
+ivalue['41.8781136'] = '';
+
+data.addRows([[40.1105875,-88.2072697,'Urbana (United States)',85,'']]);
+ivalue['40.1105875'] = '';
+
+data.addRows([[42.3600825,-71.0588801,'Boston (United States)',86,'']]);
+ivalue['42.3600825'] = '';
+
+data.addRows([[34.052235,-118.243683,'Los Angeles (United States)',87,'']]);
+ivalue['34.052235'] = '';
+
  var options = {
  backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
- colorAxis:  {minValue: 0, maxValue: 82,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
+ colorAxis:  {minValue: 0, maxValue: 87,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
  legend: 'none',
  datalessRegionColor: '#F7F7F7',
  displayMode: 'markers',

@@ -4,7 +4,7 @@ title: Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of F
 author: Je Hoon Chae, Sang Yup Lee, and Hyunjin Song
 ---
 
-*This paper is Under Review in Political Psychology*
+*Forthcoming in Political Psychology*
 
 ## Abstract
 
