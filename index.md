@@ -4,19 +4,13 @@ layout: default
 
 ## Bio
 
-I am currently a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. Prior to this, I completed an M.S. in Media Communication and a B.A. in Communication from Yonsei University. My research interests include political communication, public opinion, political psychology, and misinformation. From a methodological perspective, I specialize in causal inference and conducting large-scale web-based experiments. I strongly advocate for the use of computational methods—including text, image, and audio data analysis—in my research, which I believe can significantly contribute to the advancement of social sciences.
-
-During my master's program, I delved into the correction effects of political fact-checking by partisan news media, examining the change in people's prior beliefs towards politically controversial issues following exposure to fact-checking. This study spanned two distinct contexts: South Korea and the United States. My research received recognition through the Distinguished Dissertation Research Award at Yonsei University and [the Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am a proud recipient of the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) for 2022.
-
-For more information, please check my [CV](assets/files/cv.pdf).
-
 I began my academic journey as a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. As of September 2023, I have transitioned to the Ph.D. program at the Department of Communication at the University of California, Los Angeles. My academic foundation is rooted in a B.A. and an M.S. in Communication from Yonsei University.
 
 My research interests span political communication, public opinion, political psychology, and misinformation. Methodologically, I specialize in causal inference and the design of large-scale web-based experiments. I'm a strong proponent for integrating computational methods—including text, image, and audio data analysis—into my research, as I believe these significantly contribute to the evolution of social sciences.
 
-In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the Best Graduate Student Paper Award at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois, Urbana-Champaign for 2022 and [Graduate Dean’s Scholar Award](https://www.eeb.ucla.edu/graduate-student-support/#:~:text=Graduate%20Dean's%20Scholar%20Award%20(UCLA,the%20first%20and%20second%20year.) at UCLA for 2023--2025.
+In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the Best Graduate Student Paper Award at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois, Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023--2025.
 
-For further information, kindly refer to my CV.
+For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 ## Publication
 
