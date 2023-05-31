@@ -10,6 +10,14 @@ During my master's program, I delved into the correction effects of political fa
 
 For more information, please check my [CV](assets/files/cv.pdf).
 
+I began my academic journey as a first-year Ph.D. student in the Department of Communication at the University of Illinois Urbana-Champaign. As of September 2023, I have transitioned to the Ph.D. program at the Department of Communication at the University of California, Los Angeles. My academic foundation is rooted in a B.A. and an M.S. in Communication from Yonsei University.
+
+My research interests span political communication, public opinion, political psychology, and misinformation. Methodologically, I specialize in causal inference and the design of large-scale web-based experiments. I'm a strong proponent for integrating computational methods—including text, image, and audio data analysis—into my research, as I believe these significantly contribute to the evolution of social sciences.
+
+In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the Best Graduate Student Paper Award at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois, Urbana-Champaign for 2022 and [Graduate Dean’s Scholar Award](https://www.eeb.ucla.edu/graduate-student-support/#:~:text=Graduate%20Dean's%20Scholar%20Award%20(UCLA,the%20first%20and%20second%20year.) at UCLA for 2023--2025.
+
+For further information, kindly refer to my CV.
+
 ## Publication
 
 - **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](research/fact-checking.md). *Political Psychology*
@@ -318,15 +326,18 @@ ivalue['42.3600825'] = '';
 data.addRows([[34.052235,-118.243683,'Los Angeles (United States)',87,'']]);
 ivalue['34.052235'] = '';
 
+data.addRows([[43.653225,-79.383186,'Toronto (Canada)',88,'']]);
+ivalue['43.653225'] = '';
+
  var options = {
  backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
- colorAxis:  {minValue: 0, maxValue: 87,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
+ colorAxis:  {minValue: 0, maxValue: 88,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
  legend: 'none',
  datalessRegionColor: '#F7F7F7',
  displayMode: 'markers',
  enableRegionInteractivity: 'true',
  resolution: 'countries',
- sizeAxis: {minValue: 1, maxValue:1,minSize:3,  maxSize: 3},
+ sizeAxis: {minValue: 1, maxValue:1,minSize:2,  maxSize: 2},
  region:'world',
  keepAspectRatio: true,
  width:null,
