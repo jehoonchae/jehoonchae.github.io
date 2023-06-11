@@ -1,65 +1,81 @@
----
-layout: default
----
+I"BJ<h2 id="bio">BIO</h2>
 
-## BIO
+<p>As of September 2023, I have transitioned to the Ph.D. program in the Department of Communication at UCLA. Prior to this, I spent a year as a Ph.D. student in Communication at the University of Illinois at Urbana-Champaign. Before then, I earned an M.S. and a B.A. in Communication from Yonsei University.</p>
 
+<p>Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. To achieve this, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, images, and audio. As such, my work can be characterized as residing within the domains of computational social science and causal inference.</p>
 
-As of September 2023, I transition to the Ph.D. program of Communication at UCLA. Prior to this, I spent a year as a Ph.D. student in Communication at the University of Illinois at Urbana-Champaign. Before then, I earned an M.S. and a B.A. in Communication from Yonsei University.
+<p>In my master’s program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people’s prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the <a href="https://comm.or.kr/news/notice1/1000012302">Best Graduate Student Paper Award</a> at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am honored to have received the <a href="https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&amp;fid=4683">Illinois Distinguished Fellowship</a> at University of Illinois, Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023–2025.</p>
 
-Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. To achieve this, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, image, and audio. As such, my work can be characterized as residing intersection of computational social science and causal inference.
+<p>For further information, kindly refer to my <a href="./assets/files/cv.pdf">CV</a>.
+<br /><br /></p>
 
-In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the [Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. The study is forthcoming in the peer-reviewed journal *Political Psychology*. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois at Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023--2025.
+<h2 id="publication">PUBLICATION</h2>
 
-For further information, kindly refer to my [CV](./assets/files/cv.pdf).
-<br/><br/>
+<ul>
+  <li><strong>Chae, J. H.</strong>, Lee, S. Y., &amp; Song, H. (Forthcoming). <a href="./research/fact-checking.md">Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media</a>. <em>Political Psychology</em>
+<br /><br /></li>
+</ul>
 
-## PUBLICATION
+<h2 id="conference-presentations">CONFERENCE PRESENTATIONS</h2>
 
-- **Chae, J. H.**, Lee, S. Y., & Song, H. (Forthcoming). [Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media](./research/fact-checking.md). *Political Psychology*
-<br/><br/>
+<ul>
+  <li>
+    <p>Yang, J., Tomar, A., <strong>Chae, J. H.</strong>, &amp; Yang, X. (2023, April). “The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections,” <em>80th Annual Meeting of Midwest Political Science Association (MPSA)</em>, Chicago, IL.</p>
+  </li>
+  <li>
+    <p><strong>Chae, J. H.</strong>, Song, H., &amp; Lee, S. Y., (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” <em>117th Annual Meeting of American Political Science Association (APSA)</em>, Virtual Conference.</p>
+  </li>
+  <li>
+    <p><strong>Chae, J. H.</strong>, Song, H., &amp; Lee, S. Y., (2021, August), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” <em>116th Annual Meeting of American Sociological Association (ASA)</em>, Virtual Conference.</p>
+  </li>
+  <li>
+    <p>Min, S., <strong>Chae, J. H.</strong>, Lee, J., &amp; Lee, S. Y. (2021, July). “Identifying individuals using topic patterns of Instagram photos,” <em>7th International Conference on Computational Social Science (IC2S2)</em>, Virtual Conference.</p>
 
-## CONFERENCE PRESENTATIONS
+    <p><a href="./presentations">… see all conference presentations</a>
+<br /><br /></p>
+  </li>
+</ul>
 
-- Yang, J., Tomar, A., **Chae, J. H.**, & Yang, X. (2023, April). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
+<h2 id="teaching-experiences">TEACHING EXPERIENCES</h2>
 
-- **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *117th Annual Meeting of American Political Science Association (APSA)*, Virtual Conference.
+<ul>
+  <li>Graduate Invited Lecturer (Yonsei University)
+    <ul>
+      <li>Text Mining and Web-Scraping with Python (2020 Winter) [<a href="https://github.com/jehoonchae/python-study">See the code and materials</a>]
+        <ul>
+          <li>Eight weeks course of web-scraping and ML-based text mining with Python</li>
+          <li>Department of Physical Education, Yonsei University</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Undergraduate Teaching Fellow (Yonsei University)
+    <ul>
+      <li>COM4206: Communication Text Mining (2019 Fall)</li>
+      <li>COM3128: Public Relations (2019 Spring)</li>
+      <li>COM3144: Theories of Advanced Public Relation (2017 Fall)
+<br /><br /></li>
+    </ul>
+  </li>
+</ul>
 
-- **Chae, J. H.**, Song, H., & Lee, S. Y., (2021, August), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *116th Annual Meeting of American Sociological Association (ASA)*, Virtual Conference.
+<h2 id="travel">TRAVEL</h2>
 
-- Min, S., **Chae, J. H.**, Lee, J., & Lee, S. Y. (2021, July). “Identifying individuals using topic patterns of Instagram photos,” *7th International Conference on Computational Social Science (IC2S2)*, Virtual Conference.
+<blockquote>
+  <p>“Going up a mountain track, I fell to thinking.</p>
 
-  [... see all conference presentations](./presentations)
-<br/><br/>
+  <p>Approach everything rationally, and you become harsh. Pole along in the stream of emotions, and you will be swept away by the current. Give free rein to your desires, and you become uncomfortably confined. It is not a very agreeable place to live, this world of ours.</p>
 
-## TEACHING EXPERIENCES
+  <p>When the unpleasantness increases, you want to draw yourself up to some place where life is easier. It is just at the point when you first realise that life will be no more agreeable no matter what heights you may attain, that a poem may be given birth, or a picture created.”</p>
 
-- Graduate Invited Lecturer (Yonsei University)
-  - Text Mining and Web-Scraping with Python (2020 Winter) [[See the code and materials](https://github.com/jehoonchae/python-study)]
-    - Eight weeks course of web-scraping and ML-based text mining with Python
-    - Department of Physical Education, Yonsei University
+  <p>Kusamakura, Natsume Sōseki</p>
+</blockquote>
 
-- Undergraduate Teaching Fellow (Yonsei University)
-  - COM4206: Communication Text Mining (2019 Fall)
-  - COM3128: Public Relations (2019 Spring)
-  - COM3144: Theories of Advanced Public Relation (2017 Fall)
-<br/><br/>
-
-## TRAVEL
-
-> "Going up a mountain track, I fell to thinking.
->
-> Approach everything rationally, and you become harsh. Pole along in the stream of emotions, and you will be swept away by the current. Give free rein to your desires, and you become uncomfortably confined. It is not a very agreeable place to live, this world of ours.
->
-> When the unpleasantness increases, you want to draw yourself up to some place where life is easier. It is just at the point when you first realise that life will be no more agreeable no matter what heights you may attain, that a poem may be given birth, or a picture created."
->
-> Kusamakura, Natsume Sōseki
-
-<br/><br/>
+<p><br /><br /></p>
 <div>
-<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyD8j-SW3LBKgLJMJvB8MeGOMONcJQ42Nxg' type='text/javascript'></script><script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
-<script type='text/javascript' src='https://www.google.com/jsapi'></script>
-<script type='text/javascript'>google.charts.load('42', {'packages':['geochart']});
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8j-SW3LBKgLJMJvB8MeGOMONcJQ42Nxg" type="text/javascript"></script><script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">google.charts.load('42', {'packages':['geochart']});
 google.charts.setOnLoadCallback(drawVisualization);
 
   function drawVisualization() {var data = new google.visualization.DataTable();
@@ -359,17 +375,12 @@ ivalue['43.653225'] = '';
      drawVisualization();
  };
  </script>
-<div id='map_1619879215090'></div>
+<div id="map_1619879215090"></div>
  </div>
 
+<p> </p>
 
-
-
-
-&nbsp;
-
-&nbsp;
-
+<p> </p>
 
 <!-- ## Header 2
 
@@ -478,3 +489,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ``` -->
+:ET

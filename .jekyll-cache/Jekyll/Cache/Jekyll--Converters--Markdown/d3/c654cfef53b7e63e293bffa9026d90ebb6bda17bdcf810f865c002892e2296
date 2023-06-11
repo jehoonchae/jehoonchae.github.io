@@ -1,36 +1,27 @@
-I"ZX<!-- # Bio -->
+I")J<h2 id="bio">BIO</h2>
 
-<p>Thank you for visiting my website. I’m an incoming Ph.D. student in the Department of Communication at the University of Illinois at Urbana-Champaign. Previously, I received an M.S. degree in Media Communication in 2020 and a B.A. degree in Communication in 2017, both at Yonsei University. My academic interest encompasses theoretically political communication, public opinion, political psychology, and misinformation; methodologically causal inference, large-scale web-based experiment, and computational methods (e.g., text, image, and audio data analysis). My master’s degree dissertation research exploring the correction effects of political fact-checking by partisan news media investigates whether people change prior beliefs toward politically controversial issues as the result of exposure to fact-checking by partisan news media in the context of South Korea The research was awarded the Distinguished Dissertation Research Award of Yonsei University and <a href="https://comm.or.kr/news/notice1/1000012302">the Best Graduate Student Paper Award of Korean National Conference for Communication Graduate Students in 2020</a>. Also, I’m a receiver of the <a href="https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&amp;fid=4683">Illinois Distinguished Fellowship</a> in 2022.</p>
+<p>As of September 2023, I transition to the Ph.D. program of Communication at UCLA. Prior to this, I spent a year as a Ph.D. student in Communication at the University of Illinois at Urbana-Champaign. Before then, I earned an M.S. and a B.A. in Communication from Yonsei University.</p>
 
-<p>For more information, please check my <a href="assets/files/cv.pdf">CV</a>.</p>
+<p>Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. To achieve this, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, images, and audio. As such, my work can be characterized as residing within the domains of computational social science and causal inference.</p>
 
-<!-- [Blog test](./blog) -->
+<p>In my master’s program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people’s prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the <a href="https://comm.or.kr/news/notice1/1000012302">Best Graduate Student Paper Award</a> at the Korean National Conference for Communication Graduate Students in 2020. Additionally, I am honored to have received the <a href="https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&amp;fid=4683">Illinois Distinguished Fellowship</a> at University of Illinois, Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023–2025.</p>
 
-<!-- [another page](./another-page) -->
+<p>For further information, kindly refer to my <a href="./assets/files/cv.pdf">CV</a>.
+<br /><br /></p>
 
-<h2 id="under-review">Under Review</h2>
+<h2 id="publication">PUBLICATION</h2>
 
 <ul>
-  <li>Attitudinal Persuasion and Perceptual Backfire? Effects of Fact-Checking News Delivered by Partisan Media. (with Sang Yup Lee and Hyunjin Song). [<a href="https://github.com/revelunt/Fact-check-experiment">Code</a>]
-    <details><summary>Abstract</summary><p>The effectiveness of and its boundary conditions regarding fact-checking news exposure have significant normative and practical implications. While many of the prior studies have focused on the attitudinal consequences of fact-checking news delivered by neutral third parties such as fact-check organizations, relatively less is known as to the effect of fact-checking news delivered by partisan media. Based on the frameworks of motivated reasoning and the hostile media effect, we investigate the possibility of decoupling between attitudinal persuasion and perceptual backfire by fact-checking news by partisan media—that is, exposure to fact-checking news increases bias perception of such news yet nevertheless attitudinally persuades audiences. Based on a series of original experiments conducted in South Korea and in the United States, we find consistent support for our prediction, in that exposure to fact-checking news produces the corrective effects, yet at the same time perceived bias of the fact-checking news systematically varies as a function of
-the ideological slant of partisan media.</p></details>
-  </li>
+  <li><strong>Chae, J. H.</strong>, Lee, S. Y., &amp; Song, H. (Forthcoming). <a href="./research/fact-checking.md">Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media</a>. <em>Political Psychology</em>
+<br /><br /></li>
 </ul>
 
-<h2 id="working-papers">Working Papers</h2>
+<h2 id="conference-presentations">CONFERENCE PRESENTATIONS</h2>
 
 <ul>
-  <li>Event Segmentation in Memory for Real-world Social Events: A case of COVID-19. (with Seokyoung Min and Sanghoon Han)
-    <details><summary>Abstract</summary><p>Our daily lives are a continuous stream of sensory information. Yet when we recall those experiences later, we usually remember our past experiences as a sequence of discretized events. Although recent studies has investigated the causes and consequences of event segmentation using naturalistic stimuli such as movies, little is known about the event segmentation processes for real-world events on a longer timescale (e.g., days, months, years). Here, by combining behavioral data and text analysis, we investigated how people remember long-lasting real-world experiences and attempted to extend the event segmentation research into the real-world events outside the laboratory. Specifically, we explored event boundaries for a series of events related to Coronavirus Disease 2019 (COVID-19) that lasted several months and investigated whether self-reported event boundaries are related to media coverage, which is the main source of information about these events. Participants were instructed to annotate the event boundaries where they felt a new phase had begun, looking at headlines by date and recalling a series of COVID-19-related events in the past six months. We first tested whether there were common event boundaries in memory among participants, and found that there was a significant agreement among the participants at a total of six time points. Next, to test whether these event boundaries in memory are related to the temporal patterns of topics in media coverage over the past six months, we collected 67,089 articles on COVID-19 that were reported from January 1, 2020 to June 30, 2020. We then represented each article as a weighed sum of 100 topics by applying topic modeling to the entire set of articles, and segmented the topic time series into discrete events using a Hidden Markov Model (HMM). We found that participants’ behavioral event boundaries in memory and data-driven HMM boundaries in news topics were significantly matched. These findings suggest that a shared event boundaries in memory can be formed among different people, and that these boundaries are related to the temporal patterns of media coverage, an important source of information on social events.</p></details>
+  <li>
+    <p>Yang, J., Tomar, A., <strong>Chae, J. H.</strong>, &amp; Yang, X. (2023, April). “The Effect of Trump’s Endorsements on Senate Republican Candidates’ Campaign Messaging Strategies in the 2018 U.S. Midterm Elections,” <em>80th Annual Meeting of Midwest Political Science Association (MPSA)</em>, Chicago, IL.</p>
   </li>
-  <li>Image as Data: How Instagram Photos Reveal Individual’s Characteristics and Personality. (with Seokyoung Min, Jong Hyun Lee, and Sang Yup Lee)
-    <details><summary>Abstract</summary><p>People share their personal experiences and thoughts with other people through social media. Although previous research on social media has been focused mainly on the language use in text-based platforms such as Twitter and Facebook, few studies have been conducted on behavior in image-based platforms such as Instagram. In this study, we tried to quantify various topics in images that people share on Instagram, and to examine whether the characteristics of the images uploaded by each individual are distinguished from each other, and whether these characteristics are related to the individuals’ personality. We collected 48,855 Instagram photos uploaded over the past two years from a total of 79 participants, along with the big 5 personality traits. To systematically quantify common topics that appear in Instagram platform, we collected an independent dataset of 78,536 Instagram photos by scraping random images using frequently used hashtags on Instagram, and tagged objects contained in each image using a computer vision object recognition algorithm. We then trained a latent Dirichlet allocation (LDA) topic model that regards each image as a document, and represented all images as a point in a common 50-dimensional topic space. To determine whether the Instagram photos of each participant have uniqueness that distinguished them from others, we calculated topic similarity between images. When comparing within-subject topic similarities and between-subject similarities, within-subject similarity was significantly higher than between-subject similarity, suggesting that characteristics of Instagram photos uploaded by each person can be distinguished from other people. Next, to see if participants with similar personalities upload images of similar topics, we conducted inter-subject representational similarity analysis (RSA). When comparing the personality similarity matrix representing similarities between the participants in the big 5 personality traits and the topic similarity matrix representing similarities in the topic space, a significant positive correlation was shown between these two matrices, suggesting that people with similar personalities upload images of similar topics on Instagram.</p></details>
-  </li>
-</ul>
-
-<h2 id="conference-presentations">Conference Presentations</h2>
-
-<ul>
   <li>
     <p><strong>Chae, J. H.</strong>, Song, H., &amp; Lee, S. Y., (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” <em>117th Annual Meeting of American Political Science Association (APSA)</em>, Virtual Conference.</p>
   </li>
@@ -40,16 +31,17 @@ the ideological slant of partisan media.</p></details>
   <li>
     <p>Min, S., <strong>Chae, J. H.</strong>, Lee, J., &amp; Lee, S. Y. (2021, July). “Identifying individuals using topic patterns of Instagram photos,” <em>7th International Conference on Computational Social Science (IC2S2)</em>, Virtual Conference.</p>
 
-    <p><a href="./presentations">… see all conference presentations</a></p>
+    <p><a href="./presentations">… see all conference presentations</a>
+<br /><br /></p>
   </li>
 </ul>
 
-<h2 id="teaching-experiences">Teaching Experiences</h2>
+<h2 id="teaching-experiences">TEACHING EXPERIENCES</h2>
 
 <ul>
   <li>Graduate Invited Lecturer (Yonsei University)
     <ul>
-      <li>Text Mining and Web-Scraping with Python (2020 Winter)
+      <li>Text Mining and Web-Scraping with Python (2020 Winter) [<a href="https://github.com/jehoonchae/python-study">See the code and materials</a>]
         <ul>
           <li>Eight weeks course of web-scraping and ML-based text mining with Python</li>
           <li>Department of Physical Education, Yonsei University</li>
@@ -61,13 +53,25 @@ the ideological slant of partisan media.</p></details>
     <ul>
       <li>COM4206: Communication Text Mining (2019 Fall)</li>
       <li>COM3128: Public Relations (2019 Spring)</li>
-      <li>COM3144: Theories of Advanced Public Relation (2017 Fall)</li>
+      <li>COM3144: Theories of Advanced Public Relation (2017 Fall)
+<br /><br /></li>
     </ul>
   </li>
 </ul>
 
-<h2 id="travel-dormant-because-of-covid-19">Travel (Dormant because of Covid-19…)</h2>
+<h2 id="travel">TRAVEL</h2>
 
+<blockquote>
+  <p>“Going up a mountain track, I fell to thinking.</p>
+
+  <p>Approach everything rationally, and you become harsh. Pole along in the stream of emotions, and you will be swept away by the current. Give free rein to your desires, and you become uncomfortably confined. It is not a very agreeable place to live, this world of ours.</p>
+
+  <p>When the unpleasantness increases, you want to draw yourself up to some place where life is easier. It is just at the point when you first realise that life will be no more agreeable no matter what heights you may attain, that a poem may be given birth, or a picture created.”</p>
+
+  <p>Kusamakura, Natsume Sōseki</p>
+</blockquote>
+
+<p><br /><br /></p>
 <div>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8j-SW3LBKgLJMJvB8MeGOMONcJQ42Nxg" type="text/javascript"></script><script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
@@ -331,15 +335,33 @@ google.charts.setOnLoadCallback(drawVisualization);
  data.addRows([[33.3939924,126.5626653,'Jeju-do (South Korea)',82,'']]);
  ivalue['33.3939924'] = '';
 
+ data.addRows([[39.7392358,-104.990251,'Denver (United States)',83,'']]);
+ivalue['39.7392358'] = '';
+
+data.addRows([[41.8781136,-87.6297982,'Chicago (United States)',84,'']]);
+ivalue['41.8781136'] = '';
+
+data.addRows([[40.1105875,-88.2072697,'Urbana (United States)',85,'']]);
+ivalue['40.1105875'] = '';
+
+data.addRows([[42.3600825,-71.0588801,'Boston (United States)',86,'']]);
+ivalue['42.3600825'] = '';
+
+data.addRows([[34.052235,-118.243683,'Los Angeles (United States)',87,'']]);
+ivalue['34.052235'] = '';
+
+data.addRows([[43.653225,-79.383186,'Toronto (Canada)',88,'']]);
+ivalue['43.653225'] = '';
+
  var options = {
  backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
- colorAxis:  {minValue: 0, maxValue: 82,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
+ colorAxis:  {minValue: 0, maxValue: 88,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
  legend: 'none',
  datalessRegionColor: '#F7F7F7',
  displayMode: 'markers',
  enableRegionInteractivity: 'true',
  resolution: 'countries',
- sizeAxis: {minValue: 1, maxValue:1,minSize:3,  maxSize: 3},
+ sizeAxis: {minValue: 1, maxValue:1,minSize:2,  maxSize: 2},
  region:'world',
  keepAspectRatio: true,
  width:null,
