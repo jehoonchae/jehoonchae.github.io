@@ -32,18 +32,18 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
   [... see all conference presentations](./presentations)
 <br/><br/>
 
-## TEACHING EXPERIENCES
+<!-- ## TEACHING EXPERIENCES -->
 
-- Graduate Invited Lecturer (Yonsei University)
+<!-- - Graduate Invited Lecturer (Yonsei University)
   - Text Mining and Web-Scraping with Python (2020 Winter) [[See the code and materials](https://github.com/jehoonchae/python-study)]
     - Eight weeks course of web-scraping and ML-based text mining with Python
-    - Department of Physical Education, Yonsei University
+    - Department of Physical Education, Yonsei University -->
 
-- Undergraduate Teaching Fellow (Yonsei University)
+<!-- - Undergraduate Teaching Fellow (Yonsei University)
   - COM4206: Communication Text Mining (2019 Fall)
   - COM3128: Public Relations (2019 Spring)
-  - COM3144: Theories of Advanced Public Relation (2017 Fall)
-<br/><br/>
+  - COM3144: Theories of Advanced Public Relation (2017 Fall) -->
+<!-- <br/><br/> -->
 
 ## TRAVEL
 
