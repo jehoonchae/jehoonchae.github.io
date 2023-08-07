@@ -20,7 +20,7 @@ title: Conference Presentations
 1. Min, Seokyoung, **Je Hoon Chae**, & Sanghoon Han (2020, August). “Event Segmentation in Memory for Real-world Social Events: A case of COVID-19,” *Annual Conference of the Korean Society for Cognitive & Biological Psychology*, Virtual Conference.
   - Selected for The Best Presentation Award
 
-1. **Chae, Je Hoon**, and Sang Yup Lee (2020, July). “The Persuasion Effect of Fact-Checking News and Perceived Media Bias,” *Annual Conference of the Korean Communication Association*, Daegu, Republic of Korea.
+1. **Chae, Je Hoon** and Sang Yup Lee (2020, July). “The Persuasion Effect of Fact-Checking News and Perceived Media Bias,” *Annual Conference of the Korean Communication Association*, Daegu, Republic of Korea.
   - [Selected for The Best Graduate Student Paper (First Prize)](https://comm.or.kr/news/notice1/1000012302)
 
-1. **Chae, J. H.**, & Lee, S. Y. (2019, July). “News Framing of Refugee Issue in South Korea: Application of Topic Model,” *5th International Conference on Computational Social Science (IC2S2)*, Amsterdam, Netherlands.
+1. **Chae, Je Hoon** and Sang Yup Lee (2019, July). “News Framing of Refugee Issue in South Korea: Application of Topic Model,” *5th International Conference on Computational Social Science (IC2S2)*, Amsterdam, Netherlands.
