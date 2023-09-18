@@ -6,8 +6,6 @@ author: Je Hoon Chae
 # tags: system justification, social psychology
 ---
 
-[Home](./post)
-
 rain
 
 a symphony orchestra.  
@@ -29,3 +27,6 @@ listening. there is something wrong with him,
 isn't there?  
 he came to hear the  
 music.
+
+
+[Go back](https://jehoonchae.github.io/blog)
