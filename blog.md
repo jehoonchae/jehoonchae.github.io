@@ -7,5 +7,4 @@ title: Blog posts
 
 # Blog Posts
 
-- [2022/07/02] [First post](./posts/post1)
-- [2022/07/02] [Second post](./posts/post1)
+- [2023/09/18] [rain by Charles Bukowski](./posts/rain_bukowski)
