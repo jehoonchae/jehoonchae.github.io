@@ -2,11 +2,10 @@
 layout: post
 title: rain by Charles Bukowski
 date: 18-09-2023
-author: Je Hoon Chae
-# tags: system justification, social psychology
+# author: Je Hoon Chae
 ---
 
-rain
+rain (by Charles Bukowski)
 
 a symphony orchestra.  
 there is a thunderstorm,  
