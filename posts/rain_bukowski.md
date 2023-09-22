@@ -2,7 +2,7 @@
 layout: post
 title: rain by Charles Bukowski
 date: 18-09-2023
-author: Je Hoon Chae
+author: Je Hoon Chae (thanks to Camilla G.)
 ---
 
 rain (by Charles Bukowski)
