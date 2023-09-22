@@ -5,8 +5,6 @@ date: 21-09-2023
 author: Je Hoon Chae
 ---
 
-Conjecture and Refutation (by Karl Popper)
-
 Once your eyes were thus opened you saw confirming instances everywhere: the world was full of verifications of the theory. Whatever happened always confirmed it. Thus its truth appeared manifest; and unbelievers were clearly people who did not want to see the manifest truth; who refused to see it, either because it was against their class interest, or because of their repressions which were still 'un-analysed' and crying out for treatment. (p. 45)
 
 No scientific theory can ever be deduced from observation statements, or be described as a truth-function of observation statements. (p. 53)

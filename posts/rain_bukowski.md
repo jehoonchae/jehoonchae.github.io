@@ -5,8 +5,6 @@ date: 18-09-2023
 author: Je Hoon Chae (thanks to Camilla G.)
 ---
 
-rain (by Charles Bukowski)
-
 a symphony orchestra.  
 there is a thunderstorm,  
 they are playing a Wagner overture  
