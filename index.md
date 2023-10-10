@@ -53,7 +53,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 >
 > When the unpleasantness increases, you want to draw yourself up to some place where life is easier. It is just at the point when you first realise that life will be no more agreeable no matter what heights you may attain, that a poem may be given birth, or a picture created."
 >
-> Kusamakura, Natsume Sōseki
+> --- Natsume Sōseki, "Kusamakura"
 
 <br/><br/>
 <div>
