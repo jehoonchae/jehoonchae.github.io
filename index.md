@@ -5,7 +5,7 @@ layout: default
 ## BIO
 
 
-As of September 2023, I will be transitioning to the Ph.D. program of Communication at UCLA. Prior to this, I was a Ph.D. student in Communication at the University of Illinois at Urbana-Champaign. Before then, I earned an M.S. and a B.A. in Communication from Yonsei University.
+I'm a Ph.D. student in Communication at UCLA. Prior to this, I was a Ph.D. student in Communication at the University of Illinois at Urbana-Champaign. Before then, I earned an M.S. and a B.A. in Communication from Yonsei University.
 
 Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. To achieve this, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, image, and audio. As such, my work can be characterized as residing at the intersection of computational social science and causal inference.
 
