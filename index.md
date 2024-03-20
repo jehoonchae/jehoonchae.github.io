@@ -16,18 +16,20 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 ## PUBLICATION
 
-- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2023. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Forthcoming in Political Psychology*.
+- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Political Psychology*. [Journal Access](https://doi.org/10.1111/pops.12914)
 <br/><br/>
 
 ## CONFERENCE PRESENTATIONS
 
+- **Chae, Je Hoon** and Tim Groeling (2024, September, Scheduled) "Fact-Checking Fact-Checks: Evaluating the Credibility of Contested Fact-Checks" *120th Annual Meeting of American Political Science Association (APSA)*, Philadelphia, PA.
+
+- **Chae, Je Hoon** (2024, June, Scheduled) "Fact-checking and partisan cheerleading: Dissemination patterns of political fact-checks on Twitter," *74th Annual Meeting of International Communication Association (ICA)*, Gold Coast, Australia.
+
+- **Chae, Je Hoon** (2024, April, Scheduled) "Fact-checking and partisan cheerleading: Dissemination atterns of political fact-checks on Twitter," *81th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
+
 - Yang, JungHwan, Ashank Tomar, **Je Hoon Chae**, and Xuijia Yang. (2023, April). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
 
 - **Chae, Je Hoon**, Hyunjin Song, and Sang Yup Lee. (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *117th Annual Meeting of American Political Science Association (APSA)*, Virtual Conference.
-
-- **Chae, Je Hoon**, Hyunjin Song, and Sang Yup Lee. (2021, August), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *116th Annual Meeting of American Sociological Association (ASA)*, Virtual Conference.
-
-- Min, Seokyoung, **Je Hoon Chae**, Jonghyun Lee, and Sang Yup Lee (2021, July). “Identifying individuals using topic patterns of Instagram photos,” *7th International Conference on Computational Social Science (IC2S2)*, Virtual Conference.
 
   [... see all conference presentations](./presentations)
 <br/><br/>
