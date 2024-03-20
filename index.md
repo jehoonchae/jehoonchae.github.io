@@ -16,7 +16,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 ## PUBLICATION
 
-- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Political Psychology*. [Journal Access](https://doi.org/10.1111/pops.12914)
+- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Political Psychology*. [[Journal Access](https://doi.org/10.1111/pops.12914)] [[Code](https://github.com/revelunt/Fact-check-experiment)] [[Pre-Registration](https://osf.io/ycrv9/)]
 <br/><br/>
 
 ## CONFERENCE PRESENTATIONS
