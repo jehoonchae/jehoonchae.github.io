@@ -9,7 +9,7 @@ I'm a Ph.D. student in Communication at UCLA. Prior to this, I was a Ph.D. stude
 
 Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. To achieve this, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, image, and audio. As such, my work can be characterized as residing at the intersection of computational social science and causal inference.
 
-In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the [Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. The study is forthcoming in the peer-reviewed journal *Political Psychology*. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois at Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023--2025.
+In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the [Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. The study is published in the peer-reviewed journal *Political Psychology*. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois at Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023--2025.
 
 For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 <br/><br/>
@@ -25,7 +25,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 - **Chae, Je Hoon** (2024, June, Scheduled) "Fact-checking and partisan cheerleading: Dissemination patterns of political fact-checks on Twitter," *74th Annual Meeting of International Communication Association (ICA)*, Gold Coast, Australia.
 
-- **Chae, Je Hoon** (2024, April, Scheduled) "Fact-checking and partisan cheerleading: Dissemination atterns of political fact-checks on Twitter," *81th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
+- **Chae, Je Hoon** (2024, April) "Fact-checking and partisan cheerleading: Dissemination atterns of political fact-checks on Twitter," *81th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
 
 - Yang, JungHwan, Ashank Tomar, **Je Hoon Chae**, and Xuijia Yang. (2023, April). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
 
@@ -339,9 +339,24 @@ ivalue['34.052235'] = '';
 data.addRows([[43.653225,-79.383186,'Toronto (Canada)',88,'']]);
 ivalue['43.653225'] = '';
 
+data.addRows([[42.2406, -8.7207, 'Vigo (Spain)', 89, '']]);
+ivalue['42.2406'] = '';
+
+data.addRows([[40.4168, -3.7038, 'Madrid (Spain)', 90, '']]);
+ivalue['40.4168'] = '';
+
+data.addRows([[41.7151, 44.8271, 'Tbilisi (Georgia)', 91, '']]);
+ivalue['41.7151'] = '';
+
+data.addRows([[41.1579, -8.6291, 'Porto (Portugal)', 92, '']]);
+ivalue['41.1579'] = '';
+
+data.addRows([[36.1699, -115.1398, 'Las Vegas (United States)', 93, '']]);
+ivalue['36.1699'] = '';
+
  var options = {
  backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
- colorAxis:  {minValue: 0, maxValue: 88,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
+ colorAxis:  {minValue: 0, maxValue: 93,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
  legend: 'none',
  datalessRegionColor: '#F7F7F7',
  displayMode: 'markers',
