@@ -21,17 +21,11 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 ## CONFERENCE PRESENTATIONS
 
-- **Chae, Je Hoon** and Tim Groeling (2024, September, Scheduled) "Fact-Checking Fact-Checks: Evaluating the Credibility of Contested Fact-Checks" *120th Annual Meeting of American Political Science Association (APSA)*, Philadelphia, PA.
+- September, 2024: APSA
+- July, 2024: IC2S2
+- June, 2024: ICA
+- April, 2024: MPSA
 
-- **Chae, Je Hoon** (2024, June, Scheduled) "Fact-checking and partisan cheerleading: Dissemination patterns of political fact-checks on Twitter," *74th Annual Meeting of International Communication Association (ICA)*, Gold Coast, Australia.
-
-- **Chae, Je Hoon** (2024, April) "Fact-checking and partisan cheerleading: Dissemination atterns of political fact-checks on Twitter," *81th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
-
-- Yang, JungHwan, Ashank Tomar, **Je Hoon Chae**, and Xuijia Yang. (2023, April). "The Effect of Trump's Endorsements on Senate Republican Candidates' Campaign Messaging Strategies in the 2018 U.S. Midterm Elections," *80th Annual Meeting of Midwest Political Science Association (MPSA)*, Chicago, IL.
-
-- **Chae, Je Hoon**, Hyunjin Song, and Sang Yup Lee. (2021, October), “Perceiving Fact-Checks as Biased but Nevertheless Persuaded? Effects of Fact-Checking News Delivered by Partisan Media,” *117th Annual Meeting of American Political Science Association (APSA)*, Virtual Conference.
-
-  [... see all conference presentations](./presentations)
 <br/><br/>
 
 <!-- ## TEACHING EXPERIENCES -->
