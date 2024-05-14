@@ -26,7 +26,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 - **June, 2024**: ICA
 - **April, 2024**: MPSA
 
-<!-- <br/><br/> -->
+<br/>
 
 <!-- ## TEACHING EXPERIENCES -->
 
