@@ -21,12 +21,12 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 
 ## CONFERENCE PRESENTATIONS
 
-- September, 2024: APSA
-- July, 2024: IC2S2
-- June, 2024: ICA
-- April, 2024: MPSA
+- **September, 2024**: APSA
+- **July, 2024**: IC2S2
+- **June, 2024**: ICA
+- **April, 2024**: MPSA
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- ## TEACHING EXPERIENCES -->
 
