@@ -10,8 +10,8 @@ body {
   padding:50px;
   font: 15px/1.4 "Helvetica Neue", "Open Sans", "Roboto", Helvetica, "Raleway", "Noto Sans", "Fira Sans", "Source Sans Pro", "PT Sans", "Open Sans", Arial, sans-serif;  // added
   color: var(--clr-text);
-  font-weight: 300;
-  -webkit-font-smoothing: subpixel-antialiased;  // added
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;  // added
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,13 +19,13 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   margin:0 0 15px;
   font-weight:500;
-  -webkit-font-smoothing: subpixel-antialiased;  // added
+  -webkit-font-smoothing: antialiased;  // added
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 10px;
-  font-weight: 300;
-  -webkit-font-smoothing: subpixel-antialiased;  // added
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;  // added
 }
 
 // added

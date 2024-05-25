@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## BIO
+## Bio
 
 
 I am a graduate student at UCLA pursuing a Ph.D. in Communication and an M.S. in Statistics concurrently. Prior to this, I was in the Ph.D. program in Communication at the University of Illinois at Urbana-Champaign for one year. Before then, I earned an M.S. in Communication and a B.A. in Theology and Communication from Yonsei University.
@@ -14,12 +14,12 @@ In my master's program, I explored the correction effects of political fact-chec
 For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 <br/><br/>
 
-## PUBLICATION
+## Publication
 
 - **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Political Psychology*. [[Journal Access](https://doi.org/10.1111/pops.12914)] [[Code](https://github.com/revelunt/Fact-check-experiment)] [[Pre-Registration](https://osf.io/ycrv9/)]
 <br/><br/>
 
-## CONFERENCE PRESENTATIONS
+## Conference Presentations
 
 - **September, 2024**: APSA
 - **July, 2024**: IC2S2
@@ -41,7 +41,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
   - COM3144: Theories of Advanced Public Relation (2017 Fall) -->
 <!-- <br/><br/> -->
 
-## TRAVEL
+## Travel
 
 > "Going up a mountain track, I fell to thinking.
 >
