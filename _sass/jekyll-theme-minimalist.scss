@@ -10,7 +10,7 @@ body {
   padding:50px;
   font: 15px/1.4 "Helvetica Neue", "Open Sans", "Roboto", Helvetica, "Raleway", "Noto Sans", "Fira Sans", "Source Sans Pro", "PT Sans", "Open Sans", Arial, sans-serif;  // added
   color: var(--clr-text);
-  font-weight: 300;
+  font-weight: 400;
   -webkit-font-smoothing: subpixel-antialiased;  // added
 }
 
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 10px;
-  font-weight: 300;
+  font-weight: 400;
   -webkit-font-smoothing: subpixel-antialiased;  // added
 }
 
@@ -58,7 +58,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:32px;
+  font-size:28px;
 }
 
 // added
