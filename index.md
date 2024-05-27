@@ -17,6 +17,9 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 ## Peer-Reviewed Publication
 
 - **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). *Political Psychology*. [[Journal Access](https://doi.org/10.1111/pops.12914)] [[Code](https://github.com/revelunt/Fact-check-experiment)] [[Pre-Registration](https://osf.io/ycrv9/)]
+
+<details><summary>Abstract</summary>The effectiveness of and its boundary conditions regarding fact–checking news exposure have significant normative and practical implications. While many of the prior studies have focused on the attitudinal consequences of fact–checking news delivered by neutral third parties such as fact–check organizations, relatively less is known as to the effect of fact–checking news delivered by partisan media. Based on the frameworks of motivated reasoning and the hostile-media effect, we investigate the possibility of decoupling between attitudinal persuasion and perceptual backfire by fact–checking news by partisan media—that is, exposure to fact–checking news increases bias perception of such news yet nevertheless attitudinally persuades audiences. Based on a series of original experiments conducted in South Korea and in the United States, we find consistent support for our prediction, in that exposure to fact–checking news produces the corrective effects, yet at the same time perceived bias of the fact–checking news systematically varies as a function of the ideological slant of partisan media.</details>
+
 <br/><br/>
 
 ## Conference Presentations
