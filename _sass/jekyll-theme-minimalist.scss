@@ -78,7 +78,7 @@ a {
   color: var(--clr-a-text);
   text-decoration: none;
   font-weight: normal; /* Default font weight */
-  transition: font-weight 0.3s ease; /* Smooth transition for font-weight */
+  transition: all 0.2s ease; /* Smooth transition for font-weight */
 }
 
 a:hover, a:focus {
