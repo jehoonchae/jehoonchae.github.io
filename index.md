@@ -4,19 +4,18 @@ layout: default
 
 ## Bio
 
-
 I am a graduate student at UCLA pursuing a Ph.D. in Communication and an M.S. in Statistics concurrently. Prior to this, I studied at the University of Illinois at Urbana-Champaign and Yonsei University.
 
 Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. For the purpose, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, image, and audio. As such, my work can be characterized as residing at the intersection of computational social science and causal inference.
 
-In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the [Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. The study is published in the peer-reviewed journal *Political Psychology*. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois at Urbana-Champaign for 2022 and Graduate Dean’s Scholar Award at UCLA for 2023--2025.
+In my master's program, I explored the correction effects of political fact-checking by partisan news media, investigating how exposure to fact-checking could shift people's prior beliefs on politically controversial issues. This study was conducted within two diverse contexts: South Korea and the United States. My research efforts were acknowledged with the Distinguished Dissertation Research Award at Yonsei University and the [Best Graduate Student Paper Award](https://comm.or.kr/news/notice1/1000012302) at the Korean National Conference for Communication Graduate Students in 2020. The study is published in the peer-reviewed journal _Political Psychology_. Additionally, I am honored to have received the [Illinois Distinguished Fellowship](https://apps.grad.illinois.edu/fellowship-finder/?action=main.fellowship&fid=4683) at University of Illinois at Urbana-Champaign for 2022 and [Graduate Dean’s Scholar Award](https://www.eeb.ucla.edu/graduate-student-support/#:~:text=Graduate%20Dean's%20Scholar%20Award%20(UCLA,the%20first%20and%20second%20year.) at UCLA for 2023--2025.
 
 For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 <br/><br/>
 
 ## Peer-Reviewed Publication
 
-- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). ***Political Psychology***. [[Journal Access](https://doi.org/10.1111/pops.12914)] [[Code](https://github.com/revelunt/Fact-check-experiment)] [[Pre-Registration](https://osf.io/ycrv9/)]
+- **Chae, Je Hoon**, Sang Yup Lee, and Hyunjin Song. 2024. [Perceiving fact-checks as biased but nevertheless persuaded? Effects of fact-checking news delivered by partisan media](./research/fact-checking.md). **_Political Psychology_**. [[Journal Access](https://doi.org/10.1111/pops.12914)] [[Code](https://github.com/revelunt/Fact-check-experiment)] [[Pre-Registration](https://osf.io/ycrv9/)]
   <details>
     <summary>Abstract</summary>
     The effectiveness of and its boundary conditions regarding fact–checking news exposure have significant normative and practical implications. While many of the prior studies have focused on the attitudinal consequences of fact–checking news delivered by neutral third parties such as fact–check organizations, relatively less is known as to the effect of fact–checking news delivered by partisan media. Based on the frameworks of motivated reasoning and the hostile-media effect, we investigate the possibility of decoupling between attitudinal persuasion and perceptual backfire by fact–checking news by partisan media—that is, exposure to fact–checking news increases bias perception of such news yet nevertheless attitudinally persuades audiences. Based on a series of original experiments conducted in South Korea and in the United States, we find consistent support for our prediction, in that exposure to fact–checking news produces the corrective effects, yet at the same time perceived bias of the fact–checking news systematically varies as a function of the ideological slant of partisan media.
@@ -57,270 +56,271 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 > --- Natsume Sōseki, "Kusamakura"
 
 <br/><br/>
+
 <div>
 <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyD8j-SW3LBKgLJMJvB8MeGOMONcJQ42Nxg' type='text/javascript'></script><script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
 <script type='text/javascript' src='https://www.google.com/jsapi'></script>
 <script type='text/javascript'>google.charts.load('42', {'packages':['geochart']});
 google.charts.setOnLoadCallback(drawVisualization);
 
-  function drawVisualization() {var data = new google.visualization.DataTable();
+function drawVisualization() {var data = new google.visualization.DataTable();
 
- data.addColumn('number', 'Lat');
- data.addColumn('number', 'Lon');
- data.addColumn('string', 'Country');
- data.addColumn('number', 'Value');
- data.addColumn({type:'string', role:'tooltip'});var ivalue = new Array();
+data.addColumn('number', 'Lat');
+data.addColumn('number', 'Lon');
+data.addColumn('string', 'Country');
+data.addColumn('number', 'Value');
+data.addColumn({type:'string', role:'tooltip'});var ivalue = new Array();
 
- data.addRows([[43.061936,141.3542924,'Sapporo (Japan)',0,'']]);
- ivalue['43.061936'] = '';
+data.addRows([[43.061936,141.3542924,'Sapporo (Japan)',0,'']]);
+ivalue['43.061936'] = '';
 
- data.addRows([[43.1906806,140.9946021,'Otaru (Japan)',1,'']]);
- ivalue['43.1906806'] = '';
+data.addRows([[43.1906806,140.9946021,'Otaru (Japan)',1,'']]);
+ivalue['43.1906806'] = '';
 
- data.addRows([[42.923809,143.1966324,'Obihiro (Japan)',2,'']]);
- ivalue['42.923809'] = '';
+data.addRows([[42.923809,143.1966324,'Obihiro (Japan)',2,'']]);
+ivalue['42.923809'] = '';
 
- data.addRows([[45.178379,141.23050177392344,'Rishiri-to (Japan)',3,'']]);
- ivalue['45.178379'] = '';
+data.addRows([[45.178379,141.23050177392344,'Rishiri-to (Japan)',3,'']]);
+ivalue['45.178379'] = '';
 
- data.addRows([[45.4158108,141.6730309,'Wakkanai (Japan)',4,'']]);
- ivalue['45.4158108'] = '';
+data.addRows([[45.4158108,141.6730309,'Wakkanai (Japan)',4,'']]);
+ivalue['45.4158108'] = '';
 
- data.addRows([[44.0206027,144.2732035,'Abashiri (Japan)',5,'']]);
- ivalue['44.0206027'] = '';
+data.addRows([[44.0206027,144.2732035,'Abashiri (Japan)',5,'']]);
+ivalue['44.0206027'] = '';
 
- data.addRows([[44.175770549999996,145.22149608753335,'Shiretoko National Park (Japan)',6,'']]);
- ivalue['44.175770549999996'] = '';
+data.addRows([[44.175770549999996,145.22149608753335,'Shiretoko National Park (Japan)',6,'']]);
+ivalue['44.175770549999996'] = '';
 
- data.addRows([[42.9849503,144.3820491,'Kushiro (Japan)',7,'']]);
- ivalue['42.9849503'] = '';
+data.addRows([[42.9849503,144.3820491,'Kushiro (Japan)',7,'']]);
+ivalue['42.9849503'] = '';
 
- data.addRows([[26.3343738,127.8056597,'Okinawa (Japan)',8,'']]);
- ivalue['26.3343738'] = '';
+data.addRows([[26.3343738,127.8056597,'Okinawa (Japan)',8,'']]);
+ivalue['26.3343738'] = '';
 
- data.addRows([[22.2793278,114.1628131,'Hong Kong Island (China)',9,'']]);
- ivalue['22.2793278'] = '';
+data.addRows([[22.2793278,114.1628131,'Hong Kong Island (China)',9,'']]);
+ivalue['22.2793278'] = '';
 
- data.addRows([[13.7544238,100.4930399,'Bangkok (Thailand)',10,'']]);
- ivalue['13.7544238'] = '';
+data.addRows([[13.7544238,100.4930399,'Bangkok (Thailand)',10,'']]);
+ivalue['13.7544238'] = '';
 
- data.addRows([[43.1150678,131.8855768,'Vladivostok (Russia)',11,'']]);
- ivalue['43.1150678'] = '';
+data.addRows([[43.1150678,131.8855768,'Vladivostok (Russia)',11,'']]);
+ivalue['43.1150678'] = '';
 
- data.addRows([[48.481403,135.076935,'Khabarovsk (Russia)',12,'']]);
- ivalue['48.481403'] = '';
+data.addRows([[48.481403,135.076935,'Khabarovsk (Russia)',12,'']]);
+ivalue['48.481403'] = '';
 
- data.addRows([[52.033409,113.500893,'Chita (Russia)',13,'']]);
- ivalue['52.033409'] = '';
+data.addRows([[52.033409,113.500893,'Chita (Russia)',13,'']]);
+ivalue['52.033409'] = '';
 
- data.addRows([[52.289597,104.280586,'Irkutsk (Russia)',14,'']]);
- ivalue['52.289597'] = '';
+data.addRows([[52.289597,104.280586,'Irkutsk (Russia)',14,'']]);
+ivalue['52.289597'] = '';
 
- data.addRows([[53.1310477,107.3319654,'Olhon (Russia)',15,'']]);
- ivalue['53.1310477'] = '';
+data.addRows([[53.1310477,107.3319654,'Olhon (Russia)',15,'']]);
+ivalue['53.1310477'] = '';
 
- data.addRows([[56.0090968,92.8725147,'Krasnoyarsk (Russia)',16,'']]);
- ivalue['56.0090968'] = '';
+data.addRows([[56.0090968,92.8725147,'Krasnoyarsk (Russia)',16,'']]);
+ivalue['56.0090968'] = '';
 
- data.addRows([[55.7504461,37.6174943,'Moscow (Russia)',17,'']]);
- ivalue['55.7504461'] = '';
+data.addRows([[55.7504461,37.6174943,'Moscow (Russia)',17,'']]);
+ivalue['55.7504461'] = '';
 
- data.addRows([[59.938732,30.316229,'Saint Petersburg (Russia)',18,'']]);
- ivalue['59.938732'] = '';
+data.addRows([[59.938732,30.316229,'Saint Petersburg (Russia)',18,'']]);
+ivalue['59.938732'] = '';
 
- data.addRows([[68.970665,33.07497,'Murmansk (Russia)',19,'']]);
- ivalue['68.970665'] = '';
+data.addRows([[68.970665,33.07497,'Murmansk (Russia)',19,'']]);
+ivalue['68.970665'] = '';
 
- data.addRows([[69.7271478,30.0448971,'Kirkenes (Norway)',20,'']]);
- ivalue['69.7271478'] = '';
+data.addRows([[69.7271478,30.0448971,'Kirkenes (Norway)',20,'']]);
+ivalue['69.7271478'] = '';
 
- data.addRows([[70.04962755,23.08254009804839,'Alta (Norway)',21,'']]);
- ivalue['70.04962755'] = '';
+data.addRows([[70.04962755,23.08254009804839,'Alta (Norway)',21,'']]);
+ivalue['70.04962755'] = '';
 
- data.addRows([[69.649208,18.9543434,'Tromsø (Norway)',22,'']]);
- ivalue['69.649208'] = '';
+data.addRows([[69.649208,18.9543434,'Tromsø (Norway)',22,'']]);
+ivalue['69.649208'] = '';
 
- data.addRows([[68.28988385,17.086538711321808,'Narvik (Norway)',23,'']]);
- ivalue['68.28988385'] = '';
+data.addRows([[68.28988385,17.086538711321808,'Narvik (Norway)',23,'']]);
+ivalue['68.28988385'] = '';
 
- data.addRows([[63.4305658,10.3951929,'Trondheim (Norway)',24,'']]);
- ivalue['63.4305658'] = '';
+data.addRows([[63.4305658,10.3951929,'Trondheim (Norway)',24,'']]);
+ivalue['63.4305658'] = '';
 
- data.addRows([[59.9133301,10.7389701,'Oslo (Norway)',25,'']]);
- ivalue['59.9133301'] = '';
+data.addRows([[59.9133301,10.7389701,'Oslo (Norway)',25,'']]);
+ivalue['59.9133301'] = '';
 
- data.addRows([[66.4976214,25.7192101,'Rovaniemi (Finland)',26,'']]);
- ivalue['66.4976214'] = '';
+data.addRows([[66.4976214,25.7192101,'Rovaniemi (Finland)',26,'']]);
+ivalue['66.4976214'] = '';
 
- data.addRows([[65.0118734,25.4716809,'Oulu (Finland)',27,'']]);
- ivalue['65.0118734'] = '';
+data.addRows([[65.0118734,25.4716809,'Oulu (Finland)',27,'']]);
+ivalue['65.0118734'] = '';
 
- data.addRows([[62.8241424,27.594561484488977,'Kuopio (Finland)',28,'']]);
- ivalue['62.8241424'] = '';
+data.addRows([[62.8241424,27.594561484488977,'Kuopio (Finland)',28,'']]);
+ivalue['62.8241424'] = '';
 
- data.addRows([[60.1674881,24.9427473,'Helsinki (Finland)',29,'']]);
- ivalue['60.1674881'] = '';
+data.addRows([[60.1674881,24.9427473,'Helsinki (Finland)',29,'']]);
+ivalue['60.1674881'] = '';
 
- data.addRows([[55.9533456,-3.1883749,'City of Edinburgh (United Kingdom)',30,'']]);
- ivalue['55.9533456'] = '';
+data.addRows([[55.9533456,-3.1883749,'City of Edinburgh (United Kingdom)',30,'']]);
+ivalue['55.9533456'] = '';
 
- data.addRows([[78.2231558,15.6463656,'Longyearbyen (Norway)',31,'']]);
- ivalue['78.2231558'] = '';
+data.addRows([[78.2231558,15.6463656,'Longyearbyen (Norway)',31,'']]);
+ivalue['78.2231558'] = '';
 
- data.addRows([[51.5073219,-0.1276474,'London (United Kingdom)',32,'']]);
- ivalue['51.5073219'] = '';
+data.addRows([[51.5073219,-0.1276474,'London (United Kingdom)',32,'']]);
+ivalue['51.5073219'] = '';
 
- data.addRows([[64.145981,-21.9422367,'Reykjavik (Iceland)',33,'']]);
- ivalue['64.145981'] = '';
+data.addRows([[64.145981,-21.9422367,'Reykjavik (Iceland)',33,'']]);
+ivalue['64.145981'] = '';
 
- data.addRows([[64.5383337,-21.920208,'Borgarnes (Iceland)',34,'']]);
- ivalue['64.5383337'] = '';
+data.addRows([[64.5383337,-21.920208,'Borgarnes (Iceland)',34,'']]);
+ivalue['64.5383337'] = '';
 
- data.addRows([[64.2100527,-20.700584082302015,'Laugarvatn (Iceland)',35,'']]);
- ivalue['64.2100527'] = '';
+data.addRows([[64.2100527,-20.700584082302015,'Laugarvatn (Iceland)',35,'']]);
+ivalue['64.2100527'] = '';
 
- data.addRows([[64.327316,-20.1191026,'Gullfoss (Iceland)',36,'']]);
- ivalue['64.327316'] = '';
+data.addRows([[64.327316,-20.1191026,'Gullfoss (Iceland)',36,'']]);
+ivalue['64.327316'] = '';
 
- data.addRows([[64.00664995,-19.172413047467735,'Friðland að Fjallabaki (Iceland)',37,'']]);
- ivalue['64.00664995'] = '';
+data.addRows([[64.00664995,-19.172413047467735,'Friðland að Fjallabaki (Iceland)',37,'']]);
+ivalue['64.00664995'] = '';
 
- data.addRows([[63.6866761,-19.5209964,'Þórsmörk (Iceland)',38,'']]);
- ivalue['63.6866761'] = '';
+data.addRows([[63.6866761,-19.5209964,'Þórsmörk (Iceland)',38,'']]);
+ivalue['63.6866761'] = '';
 
- data.addRows([[63.49444815,-19.017827566653683,'Mýrdalshreppur (Iceland)',39,'']]);
- ivalue['63.49444815'] = '';
+data.addRows([[63.49444815,-19.017827566653683,'Mýrdalshreppur (Iceland)',39,'']]);
+ivalue['63.49444815'] = '';
 
- data.addRows([[63.456416399999995,-18.50629047328166,'Mýrdalssandur (Iceland)',40,'']]);
- ivalue['63.456416399999995'] = '';
+data.addRows([[63.456416399999995,-18.50629047328166,'Mýrdalssandur (Iceland)',40,'']]);
+ivalue['63.456416399999995'] = '';
 
- data.addRows([[64.0164548,-16.966458,'Skaftafell (Iceland)',41,'']]);
- ivalue['64.0164548'] = '';
+data.addRows([[64.0164548,-16.966458,'Skaftafell (Iceland)',41,'']]);
+ivalue['64.0164548'] = '';
 
- data.addRows([[64.0766956,-16.229826516117893,'Glacier Lagoon (Iceland)',42,'']]);
- ivalue['64.0766956'] = '';
+data.addRows([[64.0766956,-16.229826516117893,'Glacier Lagoon (Iceland)',42,'']]);
+ivalue['64.0766956'] = '';
 
- data.addRows([[64.2919604,-15.43819,'Brunnhóll (Iceland)',43,'']]);
- ivalue['64.2919604'] = '';
+data.addRows([[64.2919604,-15.43819,'Brunnhóll (Iceland)',43,'']]);
+ivalue['64.2919604'] = '';
 
- data.addRows([[64.2532647,-15.2080441,'Höfn (Iceland)',44,'']]);
- ivalue['64.2532647'] = '';
+data.addRows([[64.2532647,-15.2080441,'Höfn (Iceland)',44,'']]);
+ivalue['64.2532647'] = '';
 
- data.addRows([[64.655775,-14.2820953,'Djúpivogur (Iceland)',45,'']]);
- ivalue['64.655775'] = '';
+data.addRows([[64.655775,-14.2820953,'Djúpivogur (Iceland)',45,'']]);
+ivalue['64.655775'] = '';
 
- data.addRows([[64.8174479,-14.3807589,'Flögufoss (Iceland)',46,'']]);
- ivalue['64.8174479'] = '';
+data.addRows([[64.8174479,-14.3807589,'Flögufoss (Iceland)',46,'']]);
+ivalue['64.8174479'] = '';
 
- data.addRows([[65.1730103,-15.594502786602769,'Fljótsdalshérað (Iceland)',47,'']]);
- ivalue['65.1730103'] = '';
+data.addRows([[65.1730103,-15.594502786602769,'Fljótsdalshérað (Iceland)',47,'']]);
+ivalue['65.1730103'] = '';
 
- data.addRows([[65.5269612,-13.8161009,'Bakkagerði (Iceland)',48,'']]);
- ivalue['65.5269612'] = '';
+data.addRows([[65.5269612,-13.8161009,'Bakkagerði (Iceland)',48,'']]);
+ivalue['65.5269612'] = '';
 
- data.addRows([[66.07281929999999,-15.269562935248238,'Langanesbyggð (Iceland)',49,'']]);
- ivalue['66.07281929999999'] = '';
+data.addRows([[66.07281929999999,-15.269562935248238,'Langanesbyggð (Iceland)',49,'']]);
+ivalue['66.07281929999999'] = '';
 
- data.addRows([[65.5871038,-20.325866,'Skinnastaðir (Iceland)',50,'']]);
- ivalue['65.5871038'] = '';
+data.addRows([[65.5871038,-20.325866,'Skinnastaðir (Iceland)',50,'']]);
+ivalue['65.5871038'] = '';
 
- data.addRows([[65.8143387,-16.3844308,'Dettifoss (Iceland)',51,'']]);
- ivalue['65.8143387'] = '';
+data.addRows([[65.8143387,-16.3844308,'Dettifoss (Iceland)',51,'']]);
+ivalue['65.8143387'] = '';
 
- data.addRows([[65.68390355,-18.11217559813441,'Akureyri (Iceland)',52,'']]);
- ivalue['65.68390355'] = '';
+data.addRows([[65.68390355,-18.11217559813441,'Akureyri (Iceland)',52,'']]);
+ivalue['65.68390355'] = '';
 
- data.addRows([[65.6601344,-20.280998,'Blönduósbær (Iceland)',53,'']]);
- ivalue['65.6601344'] = '';
+data.addRows([[65.6601344,-20.280998,'Blönduósbær (Iceland)',53,'']]);
+ivalue['65.6601344'] = '';
 
- data.addRows([[50.1106444,8.6820917,'Frankfurt (Germany)',54,'']]);
- ivalue['50.1106444'] = '';
+data.addRows([[50.1106444,8.6820917,'Frankfurt (Germany)',54,'']]);
+ivalue['50.1106444'] = '';
 
- data.addRows([[52.3727598,4.8936041,'Amsterdam (Netherlands)',55,'']]);
- ivalue['52.3727598'] = '';
+data.addRows([[52.3727598,4.8936041,'Amsterdam (Netherlands)',55,'']]);
+ivalue['52.3727598'] = '';
 
- data.addRows([[52.383705750000004,4.643559696559635,'Haarlem (Netherlands)',56,'']]);
- ivalue['52.383705750000004'] = '';
+data.addRows([[52.383705750000004,4.643559696559635,'Haarlem (Netherlands)',56,'']]);
+ivalue['52.383705750000004'] = '';
 
- data.addRows([[52.7036282,5.2901222,'Enkhuizen (Netherlands)',57,'']]);
- ivalue['52.7036282'] = '';
+data.addRows([[52.7036282,5.2901222,'Enkhuizen (Netherlands)',57,'']]);
+ivalue['52.7036282'] = '';
 
- data.addRows([[53.1752103,5.4141998,'Harlingen (Netherlands)',58,'']]);
- ivalue['53.1752103'] = '';
+data.addRows([[53.1752103,5.4141998,'Harlingen (Netherlands)',58,'']]);
+ivalue['53.1752103'] = '';
 
- data.addRows([[39.4697065,-0.3763353,'Valencia (Spain)',59,'']]);
- ivalue['39.4697065'] = '';
+data.addRows([[39.4697065,-0.3763353,'Valencia (Spain)',59,'']]);
+ivalue['39.4697065'] = '';
 
- data.addRows([[37.6267868,-1.0006184,'Cartagena (Spain)',60,'']]);
- ivalue['37.6267868'] = '';
+data.addRows([[37.6267868,-1.0006184,'Cartagena (Spain)',60,'']]);
+ivalue['37.6267868'] = '';
 
- data.addRows([[36.9399641,-3.3615455,'Pampaneira (Spain)',61,'']]);
- ivalue['36.9399641'] = '';
+data.addRows([[36.9399641,-3.3615455,'Pampaneira (Spain)',61,'']]);
+ivalue['36.9399641'] = '';
 
- data.addRows([[36.9004942,-3.4238759,'Órgiva (Spain)',62,'']]);
- ivalue['36.9004942'] = '';
+data.addRows([[36.9004942,-3.4238759,'Órgiva (Spain)',62,'']]);
+ivalue['36.9004942'] = '';
 
- data.addRows([[36.7468565,-3.8790164,'Nerja (Spain)',63,'']]);
- ivalue['36.7468565'] = '';
+data.addRows([[36.7468565,-3.8790164,'Nerja (Spain)',63,'']]);
+ivalue['36.7468565'] = '';
 
- data.addRows([[36.7213028,-4.4216366,'Málaga (Spain)',64,'']]);
- ivalue['36.7213028'] = '';
+data.addRows([[36.7213028,-4.4216366,'Málaga (Spain)',64,'']]);
+ivalue['36.7213028'] = '';
 
- data.addRows([[37.183054,-3.6021928,'Granada (Spain)',65,'']]);
- ivalue['37.183054'] = '';
+data.addRows([[37.183054,-3.6021928,'Granada (Spain)',65,'']]);
+ivalue['37.183054'] = '';
 
- data.addRows([[37.9923795,-1.1305431,'Murcia (Spain)',66,'']]);
- ivalue['37.9923795'] = '';
+data.addRows([[37.9923795,-1.1305431,'Murcia (Spain)',66,'']]);
+ivalue['37.9923795'] = '';
 
- data.addRows([[36.7421339,-5.1665916,'Ronda (Spain)',67,'']]);
- ivalue['36.7421339'] = '';
+data.addRows([[36.7421339,-5.1665916,'Ronda (Spain)',67,'']]);
+ivalue['36.7421339'] = '';
 
- data.addRows([[36.840874400000004,-5.391934132338129,'Zahara de la Sierra (Spain)',68,'']]);
- ivalue['36.840874400000004'] = '';
+data.addRows([[36.840874400000004,-5.391934132338129,'Zahara de la Sierra (Spain)',68,'']]);
+ivalue['36.840874400000004'] = '';
 
- data.addRows([[36.140807,-5.3541295,'Gibraltar (Gibraltar)',69,'']]);
- ivalue['36.140807'] = '';
+data.addRows([[36.140807,-5.3541295,'Gibraltar (Gibraltar)',69,'']]);
+ivalue['36.140807'] = '';
 
- data.addRows([[-36.852095,172.7631803,'Auckland (New Zealand)',70,'']]);
- ivalue['-36.852095'] = '';
+data.addRows([[-36.852095,172.7631803,'Auckland (New Zealand)',70,'']]);
+ivalue['-36.852095'] = '';
 
- data.addRows([[-43.530955,172.6366455,'Christchurch (New Zealand)',71,'']]);
- ivalue['-43.530955'] = '';
+data.addRows([[-43.530955,172.6366455,'Christchurch (New Zealand)',71,'']]);
+ivalue['-43.530955'] = '';
 
- data.addRows([[-22.1301308,116.7608717683769,'Shire Of Ashburton (Australia)',72,'']]);
- ivalue['-22.1301308'] = '';
+data.addRows([[-22.1301308,116.7608717683769,'Shire Of Ashburton (Australia)',72,'']]);
+ivalue['-22.1301308'] = '';
 
- data.addRows([[-43.89344815,170.52402115790798,'Lake Tekapo (New Zealand)',73,'']]);
- ivalue['-43.89344815'] = '';
+data.addRows([[-43.89344815,170.52402115790798,'Lake Tekapo (New Zealand)',73,'']]);
+ivalue['-43.89344815'] = '';
 
- data.addRows([[-44.257483,170.0994145,'Twizel (New Zealand)',74,'']]);
- ivalue['-44.257483'] = '';
+data.addRows([[-44.257483,170.0994145,'Twizel (New Zealand)',74,'']]);
+ivalue['-44.257483'] = '';
 
- data.addRows([[-45.0321923,168.661,'Queenstown (New Zealand)',75,'']]);
- ivalue['-45.0321923'] = '';
+data.addRows([[-45.0321923,168.661,'Queenstown (New Zealand)',75,'']]);
+ivalue['-45.0321923'] = '';
 
- data.addRows([[-44.67184,167.9254592,'Milford Sound (New Zealand)',76,'']]);
- ivalue['-44.67184'] = '';
+data.addRows([[-44.67184,167.9254592,'Milford Sound (New Zealand)',76,'']]);
+ivalue['-44.67184'] = '';
 
- data.addRows([[-45.41449,167.717489,'Te Anau (New Zealand)',77,'']]);
- ivalue['-45.41449'] = '';
+data.addRows([[-45.41449,167.717489,'Te Anau (New Zealand)',77,'']]);
+ivalue['-45.41449'] = '';
 
- data.addRows([[38.8949924,-77.0365581,'Washington (United States)',78,'']]);
- ivalue['38.8949924'] = '';
+data.addRows([[38.8949924,-77.0365581,'Washington (United States)',78,'']]);
+ivalue['38.8949924'] = '';
 
- data.addRows([[40.7127281,-74.0060152,'New York (United States)',79,'']]);
- ivalue['40.7127281'] = '';
+data.addRows([[40.7127281,-74.0060152,'New York (United States)',79,'']]);
+ivalue['40.7127281'] = '';
 
- data.addRows([[37.5666791,126.9782914,'Seoul (South Korea)',80,'']]);
- ivalue['37.5666791'] = '';
+data.addRows([[37.5666791,126.9782914,'Seoul (South Korea)',80,'']]);
+ivalue['37.5666791'] = '';
 
- data.addRows([[36.0189315,129.3429384,'Pohang-si (South Korea)',81,'']]);
- ivalue['36.0189315'] = '';
+data.addRows([[36.0189315,129.3429384,'Pohang-si (South Korea)',81,'']]);
+ivalue['36.0189315'] = '';
 
- data.addRows([[33.3939924,126.5626653,'Jeju-do (South Korea)',82,'']]);
- ivalue['33.3939924'] = '';
+data.addRows([[33.3939924,126.5626653,'Jeju-do (South Korea)',82,'']]);
+ivalue['33.3939924'] = '';
 
- data.addRows([[39.7392358,-104.990251,'Denver (United States)',83,'']]);
+data.addRows([[39.7392358,-104.990251,'Denver (United States)',83,'']]);
 ivalue['39.7392358'] = '';
 
 data.addRows([[41.8781136,-87.6297982,'Chicago (United States)',84,'']]);
@@ -353,39 +353,35 @@ ivalue['41.1579'] = '';
 data.addRows([[36.1699, -115.1398, 'Las Vegas (United States)', 93, '']]);
 ivalue['36.1699'] = '';
 
- var options = {
- backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
- colorAxis:  {minValue: 0, maxValue: 93,  colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
- legend: 'none',
- datalessRegionColor: '#F7F7F7',
- displayMode: 'markers',
- enableRegionInteractivity: 'true',
- resolution: 'countries',
- sizeAxis: {minValue: 1, maxValue:1,minSize:2,  maxSize: 2},
- region:'world',
- keepAspectRatio: true,
- width:null,
- height:null,
- tooltip: {textStyle: {color: '#444444'}, trigger:'focus', isHtml: false}
- };
-  var chart = new google.visualization.GeoChart(document.getElementById('map_1619879215090'));
- chart.draw(data, options);
- }
- window.onresize = function(event) {
-     drawVisualization();
- };
- </script>
+var options = {
+backgroundColor: {fill:'#FFFFFF',stroke:'#FFFFFF' ,strokeWidth:0 },
+colorAxis: {minValue: 0, maxValue: 93, colors: ['#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92','#0E4D92']},
+legend: 'none',
+datalessRegionColor: '#F7F7F7',
+displayMode: 'markers',
+enableRegionInteractivity: 'true',
+resolution: 'countries',
+sizeAxis: {minValue: 1, maxValue:1,minSize:2, maxSize: 2},
+region:'world',
+keepAspectRatio: true,
+width:null,
+height:null,
+tooltip: {textStyle: {color: '#444444'}, trigger:'focus', isHtml: false}
+};
+var chart = new google.visualization.GeoChart(document.getElementById('map_1619879215090'));
+chart.draw(data, options);
+}
+window.onresize = function(event) {
+drawVisualization();
+};
+</script>
+
 <div id='map_1619879215090'></div>
  </div>
 
-
-
-
-
 &nbsp;
 
 &nbsp;
-
 
 <!-- ## Header 2
 
