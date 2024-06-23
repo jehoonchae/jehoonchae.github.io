@@ -78,8 +78,8 @@ a {
   color: var(--clr-a-text);
   text-decoration: none;
   font-weight: normal; /* Default font weight */
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease; /* Smooth transition for font-weight */
+  // -webkit-transition: all 0.2s ease-in-out;
+  // transition: all 0.2s ease; /* Smooth transition for font-weight */
 }
 
 a:hover, a:focus {
@@ -89,7 +89,7 @@ a:hover, a:focus {
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-weight: 600; /* Ensure links inside headings also have font weight of 600 */
-  transition: none; /* Remove transition for links inside headings */
+  // transition: none; /* Remove transition for links inside headings */
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
