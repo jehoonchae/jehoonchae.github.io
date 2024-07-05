@@ -29,7 +29,7 @@ For further information, kindly refer to my [CV](./assets/files/cv.pdf).
 - **July, 2024**: Attending IC2S2 in Philadelphia, PA
 - **June, 2024**: Attending ICA in Gold Coast, Australia
 - **April, 2024**: Attending MPSA in Chicago, IL
-- **February 2024**: Our paper was published in the journal [**_Political Psychology_**](https://doi.org/10.1111/pops.12914)
+- **February 2024**: Our paper was published in the journal [*Political Psychology*](https://doi.org/10.1111/pops.12914)
 
 <br/>
 
