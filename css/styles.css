@@ -41,7 +41,8 @@ h3, h4, h5, h6 {
 h3 {
     margin: 30px 0 10px; /* Added margin above the h3 */
     font-size: 1.3em;
-    border-bottom: 1px solid #333333;
+    /* border-bottom: 1px solid #333333; */
+    border-bottom: 1.5px solid #ccc;
 }
 
 h4 {
@@ -329,7 +330,8 @@ footer p {
 
     #header-block {
         padding-bottom: 10px;
-        border-bottom: 1px solid #333333;
+        /* border-bottom: 1px solid #333333; */
+        border-bottom: 1.5px solid #ccc;
     }
 
     #content {
@@ -364,12 +366,13 @@ footer p {
         display: flex;
         align-items: center;
         flex-wrap: wrap-reverse;
-        padding-left: 1em;
+        padding-left: 0.5em;
     }
 
     #header-block {
         padding-bottom: 10px;
-        border-bottom: 1px solid #333333;
+        /* border-bottom: 1px solid #333333; */
+        border-bottom: 1.5px solid #ccc;
     }
 
     #header-block h1 {
@@ -377,7 +380,7 @@ footer p {
     }
 
     #content {
-        padding: 1em;
+        padding: 0.5em;
         padding-top: 0em;
         max-width: 45em;
         margin: 0 auto;
