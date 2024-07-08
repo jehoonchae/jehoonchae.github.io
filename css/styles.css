@@ -42,7 +42,8 @@ h3 {
     margin: 30px 0 10px; /* Added margin above the h3 */
     font-size: 1.3em;
     /* border-bottom: 1px solid #333333; */
-    border-bottom: 1.5px solid #ccc;
+    /* border-bottom: 1.5px solid #ccc; */
+    border-bottom: 1.5px solid #eaecef;
 }
 
 h4 {
@@ -331,7 +332,8 @@ footer p {
     #header-block {
         padding-bottom: 10px;
         /* border-bottom: 1px solid #333333; */
-        border-bottom: 1.5px solid #ccc;
+        /* border-bottom: 1.5px solid #ccc; */
+        border-bottom: 1.5px solid #eaecef;
     }
 
     #content {
@@ -367,12 +369,16 @@ footer p {
         align-items: center;
         flex-wrap: wrap-reverse;
         padding-left: 0.5em;
+        border-bottom: 1.5px solid #eaecef;
     }
 
     #header-block {
         padding-bottom: 10px;
+        border-bottom: none;
         /* border-bottom: 1px solid #333333; */
-        border-bottom: 1.5px solid #ccc;
+        /* border-bottom: 1.5px solid #ccc; */
+        /* border-bottom: 1px solid #eaecef; */
+
     }
 
     #header-block h1 {
