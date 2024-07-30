@@ -226,14 +226,15 @@ ul.pub-links li:last-child:after {
 }
 
 a {
-    /* color: #1a0dab; */
     color: #00598c;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
+    color: #FFB81C; /* Highlight color on hover */
 }
+
 
 /* Block Quote Styling */
 blockquote {
