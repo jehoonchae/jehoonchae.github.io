@@ -84,7 +84,7 @@ p.small {
 }
 
 #header a:hover {
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 #header .header-link-pad {
@@ -138,7 +138,7 @@ ul.pub-list li {
 
 ul.pub-list span.pub-header {
     font-weight: 600;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .pub-title {
@@ -231,8 +231,9 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
-    color: #FFB81C; /* Highlight color on hover */
+    /* text-decoration: underline; */
+    background-color: #00598c;
+    color: #f9f9f9; /* Highlight color on hover */
 }
 
 
