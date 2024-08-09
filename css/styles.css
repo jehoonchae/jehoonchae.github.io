@@ -1,7 +1,7 @@
 body {
     /* font-size: 17px; */
     font-size: 1.0rem;
-    line-height: 1.5;
+    line-height: 1.4;
     color: #333333;
     text-rendering: optimizeLegibility;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
@@ -22,10 +22,12 @@ ul {
 
 h1 {
     font-size: 1.7em;
+    font-weight: 600;
     margin-bottom: 5px;
 }
 
 h3, h4, h5, h6 {
+    font-weight: 600;
     margin: 0 0 10px;
 }
 
@@ -222,7 +224,7 @@ ul.pub-links li:last-child:after {
 }
 
 .date {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 a {
@@ -236,6 +238,9 @@ a:hover {
     color: #f9f9f9; /* Highlight color on hover */
 }
 
+strong {
+    font-weight: 600;
+}
 
 /* Block Quote Styling */
 blockquote {
