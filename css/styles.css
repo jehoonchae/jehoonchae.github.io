@@ -135,7 +135,7 @@ p.small {
 }
 
 ul.pub-list li {
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 ul.pub-list span.pub-header {
@@ -225,6 +225,10 @@ ul.pub-links li:last-child:after {
 
 .date {
     font-weight: 600;
+}
+
+details {
+    margin-top: 5px; /* Adjust the value as needed */
 }
 
 a {
