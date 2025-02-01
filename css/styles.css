@@ -1,5 +1,6 @@
 body {
     /* font-size: 17px; */
+    background-color: rgb(245, 245, 245);
     font-size: 1.0rem;
     line-height: 1.4;
     color: #333333;
@@ -291,6 +292,7 @@ footer {
 footer p {
     margin: 0;
 }
+
 /* @media (max-width: 792px) {
     .responsive-image {
         display: none !important;
