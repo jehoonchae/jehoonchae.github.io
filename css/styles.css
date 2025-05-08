@@ -1,9 +1,9 @@
 body {
     /* font-size: 17px; */
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(255, 255, 255);
     font-size: 1.0rem;
     line-height: 1.4;
-    color: #333333;
+    color: #222222;
     text-rendering: optimizeLegibility;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     font-weight: 300;
