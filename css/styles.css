@@ -235,12 +235,17 @@ details {
 a {
     color: #00598c;
     text-decoration: none;
+    transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out;
+    text-decoration: none;
 }
 
 a:hover {
     /* text-decoration: underline; */
-    background-color: #00598c;
-    color: #f9f9f9; /* Highlight color on hover */
+    /* background-color: #00598c; */
+    /* color: #f9f9f9;  */
+    color: #C03826;
+    font-weight: 600;
+    /* background-color: transparent; */
 }
 
 strong {
