@@ -33,15 +33,17 @@ h3, h4, h5, h6 {
 }
 
 h3 {
-    margin: 30px 0 10px; /* Added margin above the h3 */
-    font-size: 1.3em;
+    margin: 50px 0 10px; /* Added margin above the h3 */
+    font-size: 1.5em;
     /* border-bottom: 1px solid #333333; */
     /* border-bottom: 1.5px solid #ccc; */
     border-bottom: 1.5px solid #eaecef;
 }
 
 h4 {
-    font-size: 1.06em;
+    font-size: 1.00em;
+    font-style: italic;
+    font-weight: 400;
 }
 
 h5 {
@@ -233,7 +235,8 @@ details {
 }
 
 a {
-    color: #00598c;
+    /* color: #00598c; */
+    color: #005587;
     text-decoration: none;
     transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out;
     text-decoration: none;
