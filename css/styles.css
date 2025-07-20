@@ -34,7 +34,7 @@ h3, h4, h5, h6 {
 
 h3 {
     margin: 50px 0 10px; /* Added margin above the h3 */
-    font-size: 1.5em;
+    font-size: 1.3em;
     /* border-bottom: 1px solid #333333; */
     /* border-bottom: 1.5px solid #ccc; */
     border-bottom: 1.5px solid #eaecef;
@@ -51,11 +51,11 @@ h5 {
 }
 
 li {
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 
 p.small {
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 
 ::selection {
