@@ -11,16 +11,18 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
+    <div id="main-container">
+        <aside id="sidebar">
     <header id="header">
-        <div id="header-img">
-            <img src="./files/profile_square.png" alt="Profile picture for Je Hoon Chae." class="responsive-image">
-        </div>
         <div id="header-block">
             <h1>Je Hoon Chae</h1>
-            <h5>PhD Student <a href="https://comm.ucla.edu">Communication</a><br>
+            <h2>PhD Student <a href="https://comm.ucla.edu">Communication</a><br>
             MS Student <a href="https://statistics.ucla.edu/">Statistics & Data Science</a><br>
             University of California, Los Angeles
-            </h5>
+            </h2> 
+            <p class="bio">
+                I am a graduate student at UCLA, concurrently pursuing a Ph.D. in Communication and an M.S. in Statistics. My current research interests are: (1) the durability of attitudinal change on politically controversial issues through factual information processing; (2) the integration of AI to improve the quality of the information ecosystem; and (3) methodological challenges in causal inference involving noisy or high-dimensional data (e.g., proxy variables or text-based measures).    
+            </p>
             <div class="header-link">
                 <a href="mailto:chae@g.ucla.edu"><i class="fas fa-envelope"></i> chae@g.ucla.edu</a> | 
                 <a href="files/cv.pdf" target="_blank"><i class="fas fa-file-alt"></i> CV</a> | 
@@ -28,32 +30,21 @@
                 <a href="https://github.com/jehoonchae" target="_blank"><i class="fab fa-github"></i> GitHub</a> | 
                 <a href="https://www.goodreads.com/user/show/100742890-je-hoon-chae" target="_blank"><i class="fab fa-goodreads"></i> Goodreads</a> | 
                 <a href="https://x.com/JehoonC" target="_blank"><i class="fab fa-twitter"></i> Twitter</a><br>
-                <a href="#news">[News]</a> 
-                <a href="#publications">[Publications]</a> 
-                <a href="#teaching">[Teaching]</a> 
-                <a href="#travel">[Misc.]</a>
             </div>
         </div>
     </header>
+</aside>
 
-    <div id="content">
-        <!-- <h3 id="bio">Who am I?</h3> -->
-        <p class="small">
-            I am a graduate student at UCLA, concurrently pursuing a Ph.D. in Communication and an M.S. in Statistics. Previously, I studied at the University of Illinois at Urbana-Champaign and Yonsei University. My current research interests are: (1) the durability of attitudinal change on politically controversial issues through factual information processing; (2) the integration of AI to improve the quality of the information ecosystem; and (3) methodological challenges in causal inference involving noisy or high-dimensional data (e.g., proxy variables or text-based measures).
-        <!-- <p class="small">
-            Substantively, my research focuses on the dissemination of political (mis)information via media to citizens, and its implications for their competences as participants in a democratic society. This area of interest intersects with various fields such as political communication, political psychology, public opinion, and the study of misinformation. Methodologically, my empirical strategies primarily aim to quantitatively elucidate the causal relationships between variables. For the purpose, I draw upon various sources of data, not limited to survey responses but also inclusive of unstructured data such as text, image, and audio. As such, my work can be characterized as residing at the intersection of computational social science and causal inference.
-        </p> -->
-        <p class="small">
-            My papers have been published or are forthcoming in journals such as the <em>Journal of Communication</em>, <em>Political Psychology</em>, and <em>New Media & Society</em>. For further information, kindly refer to my <a class="pub-title" href="files/cv.pdf">CV</a>.
-        </p>
-        <h3 id="news">Recent News</h3>
-        <div style="max-height: 250px; overflow-y: auto;">
+
+    <main id="content">
+        <div style="max-height: 400px; overflow-y: auto;" id="container">
+            <h3 id="news">Recent News</h3>
             <ul class="timeline">
                 <li>
                     <span class="date">July 2025</span> The paper, titled <em>Time is the Fire in Which Message Effects Burn: Decay and Sustenance of Correction Effects Over Time</em> (a joint work with <a href="https://scholar.google.com/citations?user=FZ7CEQIAAAAJ&hl=en&oi=ao">Tim Groeling</a> and <a href="https://www.hyunjinsong.com/">Hyunjin Song</a>), has been published in the <strong><em>Journal of Communication</em></strong>
                 </li>
                 <li>
-                    <span class="date">June 2025</span> Presenting a paper on the durability of fact-checking effects (joint work with <a href="https://scholar.google.com/citations?user=FZ7CEQIAAAAJ&hl=en&oi=ao">Tim Groeling</a> and <a href="https://www.hyunjinsong.com/">Hyunjin Song</a>), which won the <strong><em>Top Student Paper Award in Political Communication Division</em></strong> at <a href="https://www.icahdq.org/mpage/ica25">ICA'2025</a> in Denver, CO.
+                    <span class="date">June 2025</span> My paper won the <strong><em>Top Student Paper Award in Political Communication Division</em></strong> at <a href="https://www.icahdq.org/mpage/ica25">ICA'2025</a> in Denver, CO.
                 </li>
                 <!-- <li>
                     <span class="date">May 2025</span> The paper, titled <em>Time is the Fire in Which Message Effects Burn: Decay and Sustenance of Correction Effects Over Time</em> (a joint work with <a href="https://scholar.google.com/citations?user=FZ7CEQIAAAAJ&hl=en&oi=ao">Tim Groeling</a> and <a href="https://www.hyunjinsong.com/">Hyunjin Song</a>), has been accepted for publication in the <strong><em>Journal of Communication</em></strong>
@@ -70,6 +61,7 @@
                 </li>
             </ul>
         </div>
+        <div id="container">
         <h3 id="publications">Peer-Reviewed Publications</h3>
         <!-- <h4>Misinformation & Fact-checking</h4> -->
         <ul class="pub-list"> 
@@ -99,6 +91,7 @@
                 </details>
             </li>
         </ul>
+    </div>
         <!-- <h4>Methodology</h4> -->
 
         <!-- <h3 id="teaching">Teaching</h3>
@@ -113,6 +106,7 @@
             </li>
         </ul> -->
         
+        <div id="container">
         <h3 id="travel">Miscellaneous</h3>
         <blockquote>
             <p>“Going up a mountain track, I fell to thinking.</p><br>
@@ -441,11 +435,14 @@
             
             <div id='map_1619879215090'></div>
              </div>
-    </div>
+            </div>
+            <footer>
+                <p>&copy; Je Hoon Chae <span id="current-year"></span>. The excerpt is from the novel <em>Kusamakura</em> (草枕, English title: <em>The Three-Cornered World</em>) by Natsume Sōseki. The travel map was created using <a href="https://developers.google.com/chart/interactive/docs/gallery/geochart">Google Charts</a>. Each dot marks a place where I have traveled, stayed, or lived&mdash;places where I met people, shared moments, and was shaped, more or less, by those encounters.</p>
+            </footer>
+    </main>
+</div>
 
-    <footer>
-        <!-- <p>&copy; Je Hoon Chae <span id="current-year"></span></p> -->
-    </footer>
+    
 
     <script>
         // JavaScript to automatically update the year

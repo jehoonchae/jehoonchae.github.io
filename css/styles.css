@@ -2,12 +2,11 @@ body {
     /* font-size: 17px; */
     background-color: rgb(255, 255, 255);
     font-size: 1.0rem;
-    line-height: 1.4;
-    color: #222222;
+    line-height: 1.5;
+    color: #444444;
     text-rendering: optimizeLegibility;
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     font-weight: 300;
-    /* -webkit-font-smoothing: antialiased; */
 }
 
 html, button, select, textarea {
@@ -17,27 +16,25 @@ html, button, select, textarea {
 ul {
     padding: 0;
     padding-left: 30px;
-    /* list-style-type: none; */
     margin: 0;
 }
 
 h1 {
+    color: #000;
     font-size: 1.7em;
     font-weight: 600;
     margin-bottom: 5px;
 }
 
 h3, h4, h5, h6 {
+    color: #000;
     font-weight: 600;
     margin: 0 0 10px;
 }
 
 h3 {
-    margin: 50px 0 10px; /* Added margin above the h3 */
     font-size: 1.3em;
-    /* border-bottom: 1px solid #333333; */
-    /* border-bottom: 1.5px solid #ccc; */
-    border-bottom: 1.5px solid #eaecef;
+    margin-top: 10px;
 }
 
 h4 {
@@ -51,15 +48,21 @@ h5 {
 }
 
 li {
-    font-size: 0.85em;
+    font-size: 0.9em;
 }
 
-p.small {
-    font-size: 0.85em;
+
+p {
+    font-size: 0.9em;
 }
 
 ::selection {
     background-color: #DAEBFE;
+}
+
+#container {
+    margin-top: 1em;
+    margin-bottom: 2.5em;
 }
 
 /* Header */
@@ -97,9 +100,15 @@ p.small {
 }
 
 #header h1 {
-    font-size: 1.8em;
+    font-size: 2em;
     line-height: 1.0;
     margin: 1em 0 0.5em;
+}
+
+#header h2 {
+    font-size: 1em;
+    line-height: 1.4;
+    margin: 0.5em 0 1em;
 }
 
 #header-img {
@@ -121,6 +130,7 @@ p.small {
     display: inline-block;
     vertical-align: top;
     padding-bottom: 1em;
+    font-size: 1.2em;
 }
 
 .header-block {
@@ -131,11 +141,16 @@ p.small {
     flex: 1; /* Allow the header block to take up remaining space */
 }
 
+.header-link {
+    font-size: 0.9em;
+}
+
 #content {
     padding: 1em;
     max-width: 45em;
     margin: 0 auto;
 }
+
 
 ul.pub-list li {
     margin-bottom: 1em;
@@ -208,7 +223,8 @@ ul.pub-links li:last-child:after {
 }
 
 .timeline li {
-    margin: 20px 0;
+    margin: 10px 0;
+    margin-bottom: 20px;
     padding-left: 20px;
     position: relative;
 }
@@ -238,16 +254,16 @@ a {
     /* color: #00598c; */
     color: #005587;
     text-decoration: none;
-    transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out;
+    /* transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out; */
     text-decoration: none;
 }
 
 a:hover {
-    /* text-decoration: underline; */
+    text-decoration: underline;
     /* background-color: #00598c; */
     /* color: #f9f9f9;  */
     color: #C03826;
-    font-weight: 600;
+    /* font-weight: 600; */
     /* background-color: transparent; */
 }
 
@@ -290,11 +306,13 @@ blockquote cite {
 /* Footer Styling */
 footer {
     font-size: 0.8em;
-    text-align: center;
-    padding: 1em 0;
-    background-color: #f1f1f1;
+    line-height: 1;
+    text-align: left;
+    padding: 1em 1em;
+    /* background-color: #f1f1f1; */
     color: #333;
     margin-top: 2em; /* Adjust this as needed */
+    border-top: 1.5px solid #eaecef;
 }
 
 footer p {
@@ -317,6 +335,55 @@ footer p {
     }
 } */
 
+/* ========== Wide screen layout (sticky left sidebar) ========== */
+@media (min-width: 961px) {
+    #main-container {
+      display: flex;
+      max-width: 65em;
+      margin: 0 auto;
+      gap: 3em;
+      padding: 2em 1em;
+      align-items: flex-start;
+    }
+  
+    #sidebar {
+      flex: 0 0 300px;
+      position: sticky;
+      top: 2em;
+      height: fit-content;
+      /* background-color: #f9f9f9; */
+      /* padding: 1em; */
+      /* border: 1px solid #e0e0e0; */
+      /* border-radius: 8px; */
+    }
+  
+    #header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #header-img {
+      text-align: center;
+      margin-bottom: 1em;
+    }
+  
+    #header-img img {
+      width: 100%;
+      max-width: 160px;
+      height: auto;
+      /* border-radius: 50%; */
+    }
+  
+    #header-block {
+      width: 100%;
+    }
+  
+    #content {
+      flex: 1;
+      max-width: 40em;
+    }
+  }
 
 /* Medium screens (tablet) */
 @media (max-width: 960px) {
@@ -367,6 +434,12 @@ footer p {
     #header-img {
         display: none;
     }
+
+    .bio {
+        width: 70vw;  
+        max-width: none;
+        padding-left: 0;
+    }
 }
 
 
@@ -402,6 +475,12 @@ footer p {
         padding-top: 0em;
         max-width: 45em;
         margin: 0 auto;
+    }
+
+    .bio {
+        width: 90vw;  
+        max-width: none;
+        padding-left: 0;
     }
 
     h1 {
