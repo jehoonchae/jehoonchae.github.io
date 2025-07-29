@@ -20,15 +20,15 @@ ul {
 }
 
 h1 {
-    color: #000;
+    color: #333;
     font-size: 1.7em;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 5px;
 }
 
 h3, h4, h5, h6 {
-    color: #000;
-    font-weight: 600;
+    color: #333;
+    font-weight: 700;
     margin: 0 0 10px;
 }
 
@@ -68,6 +68,13 @@ p {
 /* Header */
 #header-container {
     padding: 1em;
+}
+
+/* Make email icon larger */
+.header-link a {
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-right: 10px;
 }
 
 @supports (padding: max(0px)) {
@@ -157,7 +164,7 @@ ul.pub-list li {
 }
 
 ul.pub-list span.pub-header {
-    font-weight: 600;
+    font-weight: 700;
     /* text-decoration: underline; */
 }
 
@@ -243,7 +250,7 @@ ul.pub-links li:last-child:after {
 }
 
 .date {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 details {
@@ -268,7 +275,7 @@ a:hover {
 }
 
 strong {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 /* Block Quote Styling */
@@ -306,9 +313,9 @@ blockquote cite {
 /* Footer Styling */
 footer {
     font-size: 0.8em;
-    line-height: 1;
+    line-height: 1.1;
     text-align: left;
-    padding: 1em 1em;
+    padding: 0.5em 0em;
     /* background-color: #f1f1f1; */
     color: #777;
     margin-top: 2em; /* Adjust this as needed */
