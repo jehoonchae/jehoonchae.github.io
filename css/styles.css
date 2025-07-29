@@ -71,9 +71,8 @@ p {
 }
 
 /* Make email icon larger */
-.header-link a {
+.header-link i {
     font-size: 1.8em;
-    font-weight: 700;
     margin-right: 10px;
 }
 
