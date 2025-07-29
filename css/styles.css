@@ -54,6 +54,9 @@ li {
 
 p {
     font-size: 0.9em;
+    /* margin-bottom: 1em; */
+    margin-block-start: 1.5em;
+    margin-block-end: 1.5em;
 }
 
 ::selection {
@@ -146,6 +149,7 @@ p {
     width: 300px;
     flex: 1; /* Allow the header block to take up remaining space */
 }
+
 
 .header-link {
     font-size: 0.9em;
@@ -434,7 +438,7 @@ footer p {
     }
 
     .header-link {
-        font-size: 1.0em;
+        font-size: 0.9em;
     }
 
     #header-img {
