@@ -246,7 +246,7 @@ ul.pub-links li:last-child:after {
 
 .timeline li {
     margin: 10px 0;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     padding-left: 20px;
     position: relative;
 }
@@ -265,7 +265,7 @@ ul.pub-links li:last-child:after {
 }
 
 .date {
-    font-weight: 700;
+    font-weight: 400;
 }
 
 details {
