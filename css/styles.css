@@ -5,8 +5,10 @@ body {
     line-height: 1.5;
     color: #2d2d2d;
     text-rendering: optimizeLegibility;
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
-    font-weight: 300;
+    font-family: "Lato", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    /* -webkit-font-smoothing: antialiased; */
+    /* -moz-osx-font-smoothing: grayscale; */
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -187,7 +189,7 @@ ul.pub-list span.pub-header {
     font-size: 1em;
 }
 
-.pub-authors, .paper-extra, .paper-links {
+.pub-authors, .paper-extra, .paper-links, .pub-journal {
     font-size: 0.9em;
 }
 
