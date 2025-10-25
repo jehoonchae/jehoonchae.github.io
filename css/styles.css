@@ -2,13 +2,14 @@ body {
     /* font-size: 17px; */
     background-color: rgb(255, 255, 255);
     font-size: 1.0rem;
-    line-height: 1.5;
-    color: #2d2d2d;
+    line-height: 1.4;
+    /* color: #2d2d2d; */
+    color: #000;
     text-rendering: optimizeLegibility;
     font-family: "Lato", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     font-weight: 400;
-    /* -webkit-font-smoothing: antialiased; */
-    /* -moz-osx-font-smoothing: grayscale; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -25,7 +26,7 @@ ul {
 
 h1 {
     color: #333;
-    font-size: 1.7em;
+    font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 5px;
 }
@@ -122,7 +123,7 @@ hr {
 }
 
 #header h1 {
-    font-size: 2em;
+    font-size: 1.75em;
     line-height: 1.0;
     margin: 1em 0 0.5em;
 }
@@ -276,7 +277,9 @@ details {
 
 a {
     /* color: #00598c; */
-    color: #005587;
+    color: #003c77    ;
+
+    /* color: #2774AE; */
     text-decoration: none;
     /* font-weight: 400; */
     /* transition: color 0.2s ease-in-out, font-weight 0.2s ease-in-out; */
