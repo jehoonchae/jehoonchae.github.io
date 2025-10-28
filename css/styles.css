@@ -8,7 +8,7 @@ body {
     text-rendering: optimizeLegibility;
     font-family: "Lato", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     font-weight: 400;
-    -webkit-font-smoothing: antialiased;
+    /* -webkit-font-smoothing: antialiased; */
     -moz-osx-font-smoothing: grayscale;
     margin-top: 0;
     margin-bottom: 0;
@@ -301,6 +301,37 @@ a:hover {
 
 strong {
     font-weight: 700;
+}
+
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 0.6rem; */
+}
+
+    /* shared badge style */
+.badge {
+    background-color: #2774AE;   /* base navy */
+    color: white;
+    /* text-decoration: none; */
+    padding: 0.1rem 0.4rem;
+    border-radius: 2px;
+    font-size: 0.70rem;
+    margin-right: 0.25rem;
+    margin-top: 0.25rem;
+    /* transition: background-color 0.2s ease, transform 0.1s ease; */
+}
+
+
+#content .badges .badge {
+    font-weight: 600;
+  }
+
+.badge:hover {
+    background-color: #C03826;   /* hover red */
+    color: white;
+    text-decoration: none;
+    /* transform: translateY(-1px); */
 }
 
 /* Block Quote Styling */
