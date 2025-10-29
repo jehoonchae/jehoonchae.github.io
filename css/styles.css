@@ -170,6 +170,10 @@ hr {
     font-size: 0.9em;
 }
 
+.header-link a {
+    color: #005587;
+}
+
 #content {
     padding: 1em;
     max-width: 45em;
@@ -311,7 +315,7 @@ strong {
 
     /* shared badge style */
 .badge {
-    background-color: #2774AE;   /* base navy */
+    background-color: #005587;  
     color: white;
     /* text-decoration: none; */
     padding: 0.1rem 0.4rem;
