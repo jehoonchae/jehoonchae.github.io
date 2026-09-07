@@ -70,8 +70,10 @@
         clusters.push({ x: x, y: y, items: [d] });
       }
     });
+    // Dots grow gently as you zoom in (sqrt of zoom, so they never swallow the map)
+    const boost = Math.sqrt(t.k);
     clusters.forEach(function (c) {
-      c.r = Math.min(BASE_R * Math.sqrt(c.items.length), 13);
+      c.r = Math.min(BASE_R * Math.sqrt(c.items.length), 13) * boost;
     });
     return clusters;
   }
@@ -123,7 +125,7 @@
       .attr('text-anchor', 'middle')
       .attr('dy', '0.35em')
       .attr('fill', '#ffffff')
-      .attr('font-size', function (c) { return Math.min(c.r * 1.1, 11) + 'px'; })
+      .attr('font-size', function (c) { return Math.min(c.r * 1.1, 11 * Math.sqrt(transform.k)) + 'px'; })
       .attr('font-family', 'Archivo, Helvetica, Arial, sans-serif')
       .style('pointer-events', 'none');
 
