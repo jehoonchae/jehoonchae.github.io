@@ -564,5 +564,25 @@ const TRAVEL_PLACES = [
     "lat": 55.6763,
     "lon": 12.5681,
     "name": "Copenhagen (Denmark)"
+  },
+  {
+    "lat": 39.95238,
+    "lon": -75.16362,
+    "name": "Philadelphia (United States)"
+  },
+  {
+    "lat": 42.880524,
+    "lon": -8.54569,
+    "name": "Santiago de Compostela (Spain)"
+  },
+  {
+    "lat": 43.37135,
+    "lon": -8.396,
+    "name": "A Coruña (Spain)"
+  },
+  {
+    "lat": 43.703126,
+    "lon": 7.266083,
+    "name": "Nice (France)"
   }
 ];
