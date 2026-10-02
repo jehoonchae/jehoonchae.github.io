@@ -38,25 +38,21 @@ button { font: inherit; }
 .skip-link:focus { transform: translateY(0); }
 
 /* A small type scale, with weight and tone doing most of the work. */
-.site-header { display: grid; grid-template-columns: 1fr auto; column-gap: 24px; }
 .site-header h1, .section-label { color: var(--ink); font-weight: 600; }
 .site-header h1 { font-size: 24px; line-height: 1.4; }
 .site-header h1 a { color: var(--ink); }
-.section-nav { display: flex; gap: 20px; align-items: baseline; padding-top: 3px; font-size: 14px; color: var(--secondary); }
-.section-nav a { color: inherit; }
-.site-header h1 a:hover, .site-header h1 a:focus-visible,
-.section-nav a:hover, .section-nav a:focus-visible { color: var(--accent); }
-.affiliation { grid-column: 1 / -1; margin-top: 10px; color: var(--secondary); }
+.site-header h1 a:hover, .site-header h1 a:focus-visible { color: var(--accent); }
+.affiliation { margin-top: 10px; color: var(--secondary); }
 .about-section { margin-top: 24px; }
 .intro { color: var(--body); }
 .pronunciation { color: var(--secondary); white-space: nowrap; font-size: 14px; font-weight: 400; margin-left: 5px; }
 .lab-affiliation { margin-top: 12px; }
 .about-copy p a, .affiliation a { text-decoration: underline; text-decoration-color: var(--link-rule); text-underline-offset: 3px; }
 .lab-pi { color: var(--secondary); }
-.profile-links { display: flex; flex-wrap: wrap; gap: 2px 20px; margin-top: 12px; }
-.profile-links a { padding: 2px 0; }
-.primary-links a { font-weight: 500; }
-.secondary-links { margin-top: 1px; font-size: 14px; }
+.profile-links { display: grid; grid-template-columns: repeat(7, minmax(24px, 1fr)); width: min(100%, 308px); margin-top: 12px; color: var(--secondary); }
+.profile-links a { display: grid; place-items: center; min-height: 40px; text-decoration: none; }
+.profile-icon { display: block; width: 20px; height: 20px; fill: currentColor; }
+.profile-icon-outline { fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
 
 /* Rules separate major sections; spacing separates individual entries. */
 .works-section, .news-section, .elsewhere-section {
@@ -134,12 +130,9 @@ summary:hover, summary:focus-visible { color: var(--accent); }
 
 @media (max-width: 600px) {
     .page-shell { width: calc(100% - 32px); margin: 28px auto 24px; }
-    .site-header { display: flex; flex-direction: column; }
-    .section-nav { order: 1; margin-top: 14px; }
     .works-section, .news-section, .elsewhere-section { margin-top: 32px; padding-top: 18px; }
     .section-label { margin-bottom: 16px; }
     .news-list li { grid-template-columns: 1fr; gap: 0; }
-    .profile-links { gap: 2px 18px; }
     .map-toolbar { column-gap: 8px; }
     .map-regions { column-gap: 12px; }
     .map-toolbar button { font-size: 13px; }
@@ -155,6 +148,6 @@ summary:hover, summary:focus-visible { color: var(--accent); }
 
 @media print {
     .page-shell { width: 100%; margin: 0; }
-    .skip-link, .section-nav, .profile-links, .map-toolbar, .map-readout, .map-tooltip, .map-skip-link, .footer-bottom a { display: none; }
+    .skip-link, .profile-links, .map-toolbar, .map-readout, .map-tooltip, .map-skip-link, .footer-bottom a { display: none; }
     .publication, .news-list li, figure { break-inside: avoid; }
 }
