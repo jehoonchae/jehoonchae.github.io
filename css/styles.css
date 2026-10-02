@@ -9,7 +9,7 @@
     --accent-hover: #8e3907;
     --accent-soft: #fff0e5;
     --link-rule: #ccc;
-    --sans: "Helvetica Neue", "Inter", Helvetica, Arial, sans-serif;
+    --sans: "Fira Sans", "Raleway", Helvetica, "Helvetica Neue", "Inter", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -18,7 +18,7 @@ body {
     margin: 0;
     background: var(--paper);
     color: var(--body);
-    font: 400 15px/1.55 var(--sans);
+    font: 400 15px/1.4 var(--sans);
     -webkit-font-smoothing: antialiased;
 }
 ::selection { background: var(--accent-soft); color: var(--accent-hover); }
@@ -40,65 +40,56 @@ button { font: inherit; }
 /* A small type scale, with weight and tone doing most of the work. */
 .site-header { display: grid; grid-template-columns: 1fr auto; column-gap: 24px; }
 .site-header h1, .section-label { color: var(--ink); font-weight: 600; }
-.site-header h1 { font-size: 20px; line-height: 1.4; }
+.site-header h1 { font-size: 24px; line-height: 1.4; }
 .site-header h1 a { color: var(--ink); }
 .section-nav { display: flex; gap: 20px; align-items: baseline; padding-top: 3px; font-size: 14px; color: var(--secondary); }
 .section-nav a { color: inherit; }
 .site-header h1 a:hover, .site-header h1 a:focus-visible,
 .section-nav a:hover, .section-nav a:focus-visible { color: var(--accent); }
 .affiliation { grid-column: 1 / -1; margin-top: 10px; color: var(--secondary); }
-.about-section { margin-top: 30px; }
+.about-section { margin-top: 24px; }
 .intro { color: var(--body); }
 .pronunciation { color: var(--secondary); white-space: nowrap; font-size: 14px; font-weight: 400; margin-left: 5px; }
-.lab-affiliation { margin-top: 16px; }
+.lab-affiliation { margin-top: 12px; }
 .about-copy p a, .affiliation a { text-decoration: underline; text-decoration-color: var(--link-rule); text-underline-offset: 3px; }
 .lab-pi { color: var(--secondary); }
-.profile-links { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-top: 17px; }
-.profile-links a { padding: 3px 0; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 2px 20px; margin-top: 12px; }
+.profile-links a { padding: 2px 0; }
 .primary-links a { font-weight: 500; }
 .secondary-links { margin-top: 1px; font-size: 14px; }
 
-/* Major sections have a clear boundary; the lighter rules group individual entries. */
+/* Rules separate major sections; spacing separates individual entries. */
 .works-section, .news-section, .elsewhere-section {
-    margin-top: 48px;
-    padding-top: 24px;
+    margin-top: 40px;
+    padding-top: 20px;
     border-top: 1px solid var(--section-rule);
 }
-.section-label { font-size: 17px; line-height: 1.4; margin-bottom: 24px; }
-.pub-list { list-style: none; }
-.publication + .publication { margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--rule); }
-.publication h3 { color: var(--ink); font-size: 16px; font-weight: 500; line-height: 1.4; }
+.section-label { font-size: 20px; line-height: 1.4; margin-bottom: 20px; }
+.pub-list { list-style: none; font-size: 15px; line-height: 1.35; }
+.publication + .publication { margin-top: 28px; }
+.publication h3 { color: var(--ink); font-weight: 500; }
 .publication h3 a { color: inherit; }
 .publication h3 a:hover, .publication h3 a:focus-visible { color: var(--accent); }
-.pub-authors { margin-top: 7px; color: var(--secondary); font-size: 14px; }
-.pub-authors, .pub-meta, .pub-award { line-height: 1.45; }
+.pub-authors { margin-top: 2px; color: var(--secondary); }
 .author-self { color: var(--body); }
-.pub-meta { display: flex; flex-wrap: wrap; gap: 0 12px; color: var(--secondary); font-size: 14px; }
-.pub-award { margin-top: 4px; color: var(--secondary); font-size: 14px; }
+.pub-meta { display: flex; flex-wrap: wrap; gap: 0 12px; color: var(--secondary); }
+.pub-award { margin-top: 2px; color: var(--secondary); }
 .pub-award > span { padding: 0 3px; }
+.award-icon { display: inline-block; width: 1em; height: 1em; margin-right: .35em; vertical-align: -.15em; color: var(--accent); fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 
-.news-list { list-style: none; }
-.news-list li { display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 16px; }
-.news-list li + li { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--rule); }
-.news-list time { color: var(--secondary); font-size: 14px; padding-top: 1px; font-variant-numeric: tabular-nums; }
+.news-list { list-style: none; font-size: 15px; line-height: 1.35; }
+.news-list li { display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 12px; }
+.news-list li + li { margin-top: 12px; }
+.news-list time { color: var(--secondary); font-variant-numeric: tabular-nums; }
 .news-list a { text-decoration: underline; text-decoration-color: var(--link-rule); text-underline-offset: 3px; }
 .news-kind { color: var(--ink); font-weight: 500; }
 .news-kind::after { content: ":"; }
-.news-archive { margin-top: 16px; }
 summary { width: fit-content; cursor: pointer; color: var(--secondary); font-size: 14px; padding: 2px 0; }
 summary::marker { font-size: 10px; }
 summary:hover, summary:focus-visible { color: var(--accent); }
-.news-archive .news-list { margin-top: 16px; }
 
-.literary-note blockquote { color: var(--secondary); }
-.literary-note blockquote p + p { margin-top: 14px; }
-.quote-passage { margin-top: 8px; }
-.quote-continuation { margin-top: 14px; }
-.literary-note figcaption { margin-top: 14px; color: var(--secondary); font-size: 14px; }
-.literary-note figcaption > span[aria-hidden] { padding: 0 3px; }
-cite { font-style: normal; }
-.travel-figure { position: relative; margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--rule); }
-.travel-figure > figcaption { margin-top: 18px; color: var(--secondary); font-size: 14px; }
+.travel-figure { position: relative; }
+.travel-figure > figcaption { margin-top: 12px; color: var(--secondary); font-size: 14px; }
 .map-credit { margin-top: 4px; color: var(--secondary); font-size: 14px; }
 .map-credit a { text-decoration: underline; text-decoration-color: var(--link-rule); text-underline-offset: 3px; }
 #travel-map { position: relative; container-type: inline-size; }
@@ -137,19 +128,18 @@ cite { font-style: normal; }
 .map-place-list { display: block; }
 .map-status { color: var(--secondary); padding: 24px 0; }
 
-.site-footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--section-rule); color: var(--secondary); font-size: 14px; }
+.site-footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--section-rule); color: var(--secondary); font-size: 14px; }
 .site-footer address { font-style: normal; }
-.footer-bottom { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px 20px; margin-top: 22px; }
+.footer-bottom { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px 20px; margin-top: 16px; }
 
 @media (max-width: 600px) {
-    .page-shell { margin-top: 36px; }
+    .page-shell { width: calc(100% - 32px); margin: 28px auto 24px; }
     .site-header { display: flex; flex-direction: column; }
-    .section-nav { order: 1; margin-top: 18px; }
-    .works-section, .news-section, .elsewhere-section { margin-top: 40px; padding-top: 22px; }
-    .section-label { margin-bottom: 22px; }
-    .publication + .publication { margin-top: 20px; padding-top: 20px; }
-    .news-list li { grid-template-columns: 1fr; gap: 2px; }
-    .profile-links { gap: 4px 18px; }
+    .section-nav { order: 1; margin-top: 14px; }
+    .works-section, .news-section, .elsewhere-section { margin-top: 32px; padding-top: 18px; }
+    .section-label { margin-bottom: 16px; }
+    .news-list li { grid-template-columns: 1fr; gap: 0; }
+    .profile-links { gap: 2px 18px; }
     .map-toolbar { column-gap: 8px; }
     .map-regions { column-gap: 12px; }
     .map-toolbar button { font-size: 13px; }
@@ -167,5 +157,4 @@ cite { font-style: normal; }
     .page-shell { width: 100%; margin: 0; }
     .skip-link, .section-nav, .profile-links, .map-toolbar, .map-readout, .map-tooltip, .map-skip-link, .footer-bottom a { display: none; }
     .publication, .news-list li, figure { break-inside: avoid; }
-    .news-archive > .news-list { display: block; }
 }

@@ -584,5 +584,50 @@ const TRAVEL_PLACES = [
     "lat": 43.703126,
     "lon": 7.266083,
     "name": "Nice (France)"
+  },
+  {
+    "lat": 36.349129,
+    "lon": 127.38493,
+    "name": "Daejeon (South Korea)"
+  },
+  {
+    "lat": 35.821945,
+    "lon": 127.148889,
+    "name": "Jeonju (South Korea)"
+  },
+  {
+    "lat": 37.45646,
+    "lon": 126.70515,
+    "name": "Incheon (South Korea)"
+  },
+  {
+    "lat": 34.9505,
+    "lon": 127.487842,
+    "name": "Suncheon (South Korea)"
+  },
+  {
+    "lat": 35.154722,
+    "lon": 126.915556,
+    "name": "Gwangju (South Korea)"
+  },
+  {
+    "lat": 35.842778,
+    "lon": 129.211667,
+    "name": "Gyeongju (South Korea)"
+  },
+  {
+    "lat": 35.10168,
+    "lon": 129.03004,
+    "name": "Busan (South Korea)"
+  },
+  {
+    "lat": 38.207009,
+    "lon": 128.591812,
+    "name": "Sokcho (South Korea)"
+  },
+  {
+    "lat": 37.752657,
+    "lon": 128.872392,
+    "name": "Gangneung (South Korea)"
   }
 ];
