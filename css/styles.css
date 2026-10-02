@@ -9,7 +9,7 @@
     --accent-hover: #8e3907;
     --accent-soft: #fff0e5;
     --link-rule: #ccc;
-    --sans: "Fira Sans", "Raleway", Helvetica, "Helvetica Neue", "Inter", Arial, sans-serif;
+    --sans: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
