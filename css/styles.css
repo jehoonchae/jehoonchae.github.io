@@ -49,8 +49,8 @@ button { font: inherit; }
 .lab-affiliation { margin-top: 12px; }
 .about-copy p a, .affiliation a { text-decoration: underline; text-decoration-color: var(--link-rule); text-underline-offset: 3px; }
 .lab-pi { color: var(--secondary); }
-.profile-links { display: grid; grid-template-columns: repeat(7, minmax(24px, 1fr)); width: min(100%, 308px); margin-top: 12px; color: var(--secondary); }
-.profile-links a { display: grid; place-items: center; min-height: 40px; text-decoration: none; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 0 4px; margin-top: 12px; color: var(--secondary); }
+.profile-links a { display: grid; place-items: center start; flex: 0 0 28px; min-height: 40px; text-decoration: none; }
 .profile-icon { display: block; width: 20px; height: 20px; fill: currentColor; }
 .profile-icon-outline { fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
 
