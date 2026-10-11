@@ -1,4 +1,5 @@
 // Add places here; the map and alphabetical list share this data.
+// Keep the country in the final parentheses; U.S. labels also include the state abbreviation.
 const TRAVEL_PLACES = [
   {
     "lat": 43.061936,
@@ -393,12 +394,12 @@ const TRAVEL_PLACES = [
   {
     "lat": 38.8949924,
     "lon": -77.0365581,
-    "name": "Washington (United States)"
+    "name": "Washington (DC) (United States)"
   },
   {
     "lat": 40.7127281,
     "lon": -74.0060152,
-    "name": "New York (United States)"
+    "name": "New York (NY) (United States)"
   },
   {
     "lat": 37.5666791,
@@ -418,27 +419,27 @@ const TRAVEL_PLACES = [
   {
     "lat": 39.7392358,
     "lon": -104.990251,
-    "name": "Denver (United States)"
+    "name": "Denver (CO) (United States)"
   },
   {
     "lat": 41.8781136,
     "lon": -87.6297982,
-    "name": "Chicago (United States)"
+    "name": "Chicago (IL) (United States)"
   },
   {
     "lat": 40.1105875,
     "lon": -88.2072697,
-    "name": "Urbana (United States)"
+    "name": "Urbana (IL) (United States)"
   },
   {
     "lat": 42.3600825,
     "lon": -71.0588801,
-    "name": "Boston (United States)"
+    "name": "Boston (MA) (United States)"
   },
   {
     "lat": 34.052235,
     "lon": -118.243683,
-    "name": "Los Angeles (United States)"
+    "name": "Los Angeles (CA) (United States)"
   },
   {
     "lat": 43.653225,
@@ -468,7 +469,7 @@ const TRAVEL_PLACES = [
   {
     "lat": 36.1699,
     "lon": -115.1398,
-    "name": "Las Vegas (United States)"
+    "name": "Las Vegas (NV) (United States)"
   },
   {
     "lat": -33.8688,
@@ -483,12 +484,12 @@ const TRAVEL_PLACES = [
   {
     "lat": 29.9511,
     "lon": -90.0715,
-    "name": "New Orleans (United States)"
+    "name": "New Orleans (LA) (United States)"
   },
   {
     "lat": 32.7504,
     "lon": -85.1802,
-    "name": "Georgia (United States)"
+    "name": "Georgia (GA) (United States)"
   },
   {
     "lat": 44.0678,
@@ -523,32 +524,32 @@ const TRAVEL_PLACES = [
   {
     "lat": 36.1627,
     "lon": -86.7816,
-    "name": "Nashville (United States)"
+    "name": "Nashville (TN) (United States)"
   },
   {
     "lat": 37.7749,
     "lon": -122.4194,
-    "name": "San Francisco (United States)"
+    "name": "San Francisco (CA) (United States)"
   },
   {
     "lat": 37.8651,
     "lon": -119.5383,
-    "name": "Yosemite National Park (United States)"
+    "name": "Yosemite National Park (CA) (United States)"
   },
   {
     "lat": 40.7608,
     "lon": -111.891,
-    "name": "Salt Lake City (United States)"
+    "name": "Salt Lake City (UT) (United States)"
   },
   {
     "lat": 32.7157,
     "lon": -117.1611,
-    "name": "San Diego (United States)"
+    "name": "San Diego (CA) (United States)"
   },
   {
     "lat": 36.6002,
     "lon": -121.8947,
-    "name": "Monterey (United States)"
+    "name": "Monterey (CA) (United States)"
   },
   {
     "lat": 47.3769,
@@ -568,7 +569,7 @@ const TRAVEL_PLACES = [
   {
     "lat": 39.95238,
     "lon": -75.16362,
-    "name": "Philadelphia (United States)"
+    "name": "Philadelphia (PA) (United States)"
   },
   {
     "lat": 42.880524,
@@ -633,56 +634,56 @@ const TRAVEL_PLACES = [
   {
     "lat": 35.687,
     "lon": -105.938,
-    "name": "Santa Fe (United States)"
+    "name": "Santa Fe (NM) (United States)"
   },
   {
     "lat": 35.084,
     "lon": -106.651,
-    "name": "Albuquerque (United States)"
+    "name": "Albuquerque (NM) (United States)"
   },
   {
     "lat": 40.8,
     "lon": -96.667,
-    "name": "Lincoln, Nebraska (United States)"
+    "name": "Lincoln (NE) (United States)"
   },
   {
     "lat": 39.0997,
     "lon": -94.5786,
-    "name": "Kansas City, Missouri (United States)"
+    "name": "Kansas City (MO) (United States)"
   },
   {
     "lat": 40.55,
     "lon": -91.3849,
-    "name": "Nauvoo, Illinois (United States)"
+    "name": "Nauvoo (IL) (United States)"
   },
   {
     "lat": 39.8017,
     "lon": -89.6437,
-    "name": "Springfield, Illinois (United States)"
+    "name": "Springfield (IL) (United States)"
   },
   {
     "lat": 39.7684,
     "lon": -86.158,
-    "name": "Indianapolis, Indiana (United States)"
+    "name": "Indianapolis (IN) (United States)"
   },
   {
     "lat": 40.4842,
     "lon": -88.9937,
-    "name": "Bloomington, Illinois (United States)"
+    "name": "Bloomington (IL) (United States)"
   },
   {
     "lat": 39.9612,
     "lon": -82.9988,
-    "name": "Columbus, Ohio (United States)"
+    "name": "Columbus (OH) (United States)"
   },
   {
     "lat": 38.9807,
     "lon": -77.1003,
-    "name": "Bethesda, Maryland (United States)"
+    "name": "Bethesda (MD) (United States)"
   },
   {
     "lat": 42.737,
     "lon": -84.4839,
-    "name": "East Lansing, Michigan (United States)"
+    "name": "East Lansing (MI) (United States)"
   }
 ];
