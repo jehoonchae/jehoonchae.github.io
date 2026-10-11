@@ -639,5 +639,50 @@ const TRAVEL_PLACES = [
     "lat": 35.084,
     "lon": -106.651,
     "name": "Albuquerque (United States)"
+  },
+  {
+    "lat": 40.8,
+    "lon": -96.667,
+    "name": "Lincoln, Nebraska (United States)"
+  },
+  {
+    "lat": 39.0997,
+    "lon": -94.5786,
+    "name": "Kansas City, Missouri (United States)"
+  },
+  {
+    "lat": 40.55,
+    "lon": -91.3849,
+    "name": "Nauvoo, Illinois (United States)"
+  },
+  {
+    "lat": 39.8017,
+    "lon": -89.6437,
+    "name": "Springfield, Illinois (United States)"
+  },
+  {
+    "lat": 39.7684,
+    "lon": -86.158,
+    "name": "Indianapolis, Indiana (United States)"
+  },
+  {
+    "lat": 40.4842,
+    "lon": -88.9937,
+    "name": "Bloomington, Illinois (United States)"
+  },
+  {
+    "lat": 39.9612,
+    "lon": -82.9988,
+    "name": "Columbus, Ohio (United States)"
+  },
+  {
+    "lat": 38.9807,
+    "lon": -77.1003,
+    "name": "Bethesda, Maryland (United States)"
+  },
+  {
+    "lat": 42.737,
+    "lon": -84.4839,
+    "name": "East Lansing, Michigan (United States)"
   }
 ];
