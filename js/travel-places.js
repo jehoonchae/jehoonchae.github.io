@@ -629,5 +629,15 @@ const TRAVEL_PLACES = [
     "lat": 37.752657,
     "lon": 128.872392,
     "name": "Gangneung (South Korea)"
+  },
+  {
+    "lat": 35.687,
+    "lon": -105.938,
+    "name": "Santa Fe (United States)"
+  },
+  {
+    "lat": 35.084,
+    "lon": -106.651,
+    "name": "Albuquerque (United States)"
   }
 ];
