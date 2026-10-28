@@ -34,6 +34,7 @@
   let selectedId = null;
   let transform = d3.zoomIdentity;
   let worldFeatures;
+  let mapDetailRequested = false;
 
   container.setAttribute('role', 'region');
   container.setAttribute('aria-busy', 'true');
@@ -60,6 +61,12 @@
     .attr('role', 'group').attr('tabindex', 0)
     .attr('aria-label', 'Travel map. Use arrow keys to pan, plus and minus to zoom, and Home for the world view.');
   const gMap = svg.append('g').attr('class', 'map-geography').attr('aria-hidden', 'true');
+  const gCountries = gMap.append('g').attr('class', 'map-countries');
+  const gDetail = gMap.append('g').attr('class', 'map-detail').attr('opacity', 0);
+  const stateBorders = gDetail.append('path').attr('class', 'map-state-borders')
+    .attr('vector-effect', 'non-scaling-stroke');
+  const lakes = gDetail.append('path').attr('class', 'map-lakes')
+    .attr('vector-effect', 'non-scaling-stroke');
   const gDots = svg.append('g').attr('class', 'map-places');
   const tooltip = stage.append('div').attr('class', 'map-tooltip').attr('aria-hidden', 'true').attr('hidden', true);
   let hideTooltipTimer;
@@ -81,6 +88,28 @@
     .text('Loading map…');
   const projection = d3.geoNaturalEarth1().rotate([-11, 0]);
   const path = d3.geoPath(projection);
+
+  function updateMapDetail() {
+    // Reveal detail gradually, without scaling the line weight or blocking the map.
+    const opacity = Math.max(0, Math.min(1, (transform.k - 2.5) / 2));
+    gDetail.attr('opacity', opacity);
+    if (!opacity || mapDetailRequested) return;
+    mapDetailRequested = true;
+    Promise.all([
+      d3.json('data/us-states-10m.json'),
+      d3.json('data/great-lakes-50m.json')
+    ]).then(function ([us, greatLakes]) {
+      // Shared state edges stop at lake shores. Draw the water too, since the
+      // world countries layer includes the Great Lakes in its land polygons.
+      const borders = topojson.mesh(us, us.objects.states, function (a, b) { return a !== b; });
+      stateBorders.datum(borders).attr('d', path);
+      lakes.datum(greatLakes).attr('d', path);
+    }).catch(function () {
+      // Show the detail together, or retain the usable world map and cities.
+      stateBorders.attr('d', null);
+      lakes.attr('d', null);
+    });
+  }
 
   function updateControls() {
     regionButtons.attr('disabled', ready ? null : true)
@@ -293,6 +322,7 @@
     .on('zoom', function (event) {
       transform = event.transform;
       gMap.attr('transform', transform);
+      updateMapDetail();
       renderDots();
       updateControls();
     });
@@ -360,7 +390,7 @@
       const countries = topojson.feature(world, world.objects.countries).features
         .filter(function (d) { return d.properties.name !== 'Antarctica'; });
       worldFeatures = { type: 'FeatureCollection', features: countries };
-      gMap.selectAll('path').data(countries).join('path').attr('class', 'map-country')
+      gCountries.selectAll('path').data(countries).join('path').attr('class', 'map-country')
         .attr('vector-effect', 'non-scaling-stroke');
       ready = true;
       container.setAttribute('aria-busy', 'false');

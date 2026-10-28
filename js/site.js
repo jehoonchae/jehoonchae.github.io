@@ -41,7 +41,7 @@
       loadScript('https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js'),
       loadScript('https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js')
     ])
-      .then(function () { return loadScript('js/travel-map.js?v=7'); })
+      .then(function () { return loadScript('js/travel-map.js?v=9'); })
       .catch(function () {
         container.setAttribute('aria-busy', 'false');
         container.querySelector('.map-placeholder').textContent = 'The map is unavailable. You can still browse the places below.';
